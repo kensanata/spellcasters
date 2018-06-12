@@ -4,4 +4,4 @@ CSS=spellcasters.css
 	weasyprint $< $@
 
 %.html: %.md
-	md2html $<
+	python3 -m markdown --extension=markdown.extensions.tables --file=$@ $<
