@@ -1,3 +1,5 @@
+## Ysabala
+
 ![Ysabala](Ysabala.png)
 This daughter of a devil has built her tower of black obsidian on
 *Muspelheim*. She found her way into the realm of fire by learning the
@@ -13,7 +15,7 @@ powers just want to be left alone but the scheming Balor demon
 *Cutting Flesh for Fun and Profit* has other ideas and keeps them on
 their toes.
 
-## The Book of Pyromancy
+### The Book of Pyromancy
 
 
 **Ball of fire** (1) creates a big ball of rolling fire in front of you and sends it rolling towards a target within 60ft. Upon impact it explodes and deals 3d6 damage, save vs. spells for half. The ball must travel on solid ground and cannot cross water.

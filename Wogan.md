@@ -5,11 +5,11 @@ Wogan is a priest of *Freya*, the goddess of autumn harvest and winter wolves. H
 
 Wherever Wogan goes he is accompanied by a loyal companion: a white wolf nearly as big as pony. This is the winter wolf *Frostbite*, HD 5+1 AC 4 bite 1d10 (1–4/6) or breath of ice 2d6 for 5m (5–6/6) F6 MV 15; immune to cold; magical cold only deals half damage; magical fire deals +1 per damage die; speaks.
 
-## Treasure
+### Treasure
 
 ...
 
-## The Book of the Winter Wolf
+### The Book of the Winter Wolf
 
 **Wolf tongue** (1) allows him to talk to all sorts of wolves, dogs and hyenas for an hour.
 
