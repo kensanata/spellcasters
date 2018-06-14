@@ -3,6 +3,9 @@ school role-playing game. Personally, I use them for my
 [Halberds & Helmets](https://alexschroeder.ch/wiki/Halberds_and_Helmets)
 games.
 
+The generated PDFs are hosted
+[on my site](https://alexschroeder.ch/pdfs/spellcasters/).
+
 ## Toolchain
 
 If you're interested in the toolchain I'm using: I use Python's
