@@ -1,7 +1,7 @@
 CSS=spellcasters.css
 
 # Create a PDF for every Markdown file
-NO_CASTERS=README.md Foreword.md Spellcasters
+NO_CASTERS=README.md Foreword.md Spellcasters.md
 CASTERS=$(sort $(filter-out $(NO_CASTERS),$(wildcard *.md)))
 ALL=$(patsubst %.md,%.pdf,$(CASTERS))
 
