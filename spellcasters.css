@@ -1,7 +1,7 @@
 html { hyphens: auto }
 body { text-align: justify; /* columns: 2 */ }
 /* portraits */
-img { float: right; margin: 1ex; }
+img { float: right; margin: 1ex; width: 100px }
 /* footnotes */
 .footnotes { font-size: 90% }
 p .footnotes { display: block; margin-top: 1em }
