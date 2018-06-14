@@ -1,7 +1,7 @@
 ## Qunu
 
 ![Qunu](Qunu.png)
-Qunu is a witch. She's not one of the old and bitter hags cursed by too many deals with the devil, no. She's one of the favorites of [[Hel]], the goddess of magic: charming, powerful, beautiful, intelligent, always a step ahead of the game.
+Qunu is a witch. She's not one of the old and bitter hags cursed by too many deals with the devil, no. She's one of the favorites of Hel, the goddess of magic: charming, powerful, beautiful, intelligent, always a step ahead of the game.
 
 She lives in a beautiful palace built into the *Wall of Aigur*, a sheer wall only reachable by a precarious foot path secured by damp ropes overlooking the Forest of Dreadful Faces. The gate palace itself is guarded by thee three hellhounds *Harm*, *Pain* and *Bones*. On the palace roof there is a viewing platform where the troll *Envy* keeps watch.
 

@@ -39,6 +39,6 @@ their toes.
 
 **Wall of fire** (4) allows you to create a wall of fire that cannot be crossed by any creature with 4HD or less. When crossed, the wall inflicts 1d6 fire damage. The wall is 10ft high and up to 200ft long. This is enough for a circle with 30ft radius.
 
-**Summoning a lord of fire** (4) summons an [[Ifrit]] from Muspelheim.
+**Summoning a lord of fire** (4) summons an Ifrit from Muspelheim.
 
 **Rain of fire** (5) opens a storm gate to Muspelheim, the realm of eternal fire. For a minute, a great roaring can be heard overhead and soot and ash will fill the air, followed by 10min of liquid fire raining down, dealing 1d8 per round, setting all wooden structures on fire, killing everything that is not protected by a stone roof or impervious to fire. An area as large as a village can thus be levelled. Flying creatures immune to fire can use this gate to cross over into Muspelheim.

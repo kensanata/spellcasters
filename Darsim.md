@@ -15,7 +15,7 @@ The fan already contains a few winds:
 * Regalion, an elven bard who had used *gaseous form* to break into Darsim's tower in order to steal the fan.
 * A calm spring breeze captured when Darsim thought he needed a lull for a ritual but then he forgot about it.
 * An angry air elemental captured in Vanaheim.
-* Builder of Glass Towers, a [[Jinni]] in whirlwind form, also captured in Vanaheim.
+* Builder of Glass Towers, a Jinni in whirlwind form, also captured in Vanaheim.
 * A snowstorm that had come from the Rainbow Snake Glacier last year.
 * A cool breeze Darsim uses to cool off when he's stuck where it's hot.
 
