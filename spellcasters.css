@@ -1,5 +1,5 @@
 html { hyphens: auto }
-body { text-align: justify; /* columns: 2 */ }
+body { font-family: "Palatino Linotype"; text-align: justify; /* columns: 2 */ }
 /* portraits */
 img { float: right; margin: 1ex; width: 100px }
 /* footnotes */
