@@ -23,3 +23,6 @@ Spellcasters.md: Foreword.md $(CASTERS)
 
 %.html: %.html.tmp spellcasters-prefix spellcasters-suffix
 	cat spellcasters-prefix $< spellcasters-suffix > $@
+
+upload: $(ALL) Spellcasters.pdf
+	scp -P 882 $^ alexschroeder.ch:alexschroeder.ch/pdfs/spellcasters/
