@@ -2,14 +2,19 @@ html { hyphens: auto }
 body { text-align: justify; /* columns: 2 */ }
 /* portraits */
 img { float: right; margin: 1ex; }
+/* footnotes */
+.footnotes { font-size: 90% }
+p .footnotes { display: block; margin-top: 1em }
 /* https://www.w3.org/Style/Examples/007/indent.en.html */
 p { margin-bottom: 0 }
 p + p { text-indent: 1.5em; margin-top: 0 }
-/* footnotes */
-.footnotes { font-size: 90% }
 /* page numbers */
 @page {
   @bottom-center {
     content: counter(page);
   }
 }
+/* bookmarks, table of contents */
+h1, h3 { bookmark-level: none }
+/* page breaks: FIXME (has no effect?) */
+h2 { break-before : always }
