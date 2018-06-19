@@ -13,6 +13,7 @@ They say Beryl lost one of her eyes when she attained the rank of Odin's chosen 
 ### Treasure
 
 The *scroll of nevermore* looks like an completely ordinary scroll with the word "Nevermore" written at the top but it is otherwise empty. This scroll can be used to curse any entity, organization or area, regardless of size, if one writes a poem that describes the destruction of this area or entity vividly, using the word "nevermore" as rhyme pattern.
+
 ### The Book of Darkness
 
 **Darkness** (1) with a radius of 60ft and a duration of 2h; anybody within it is blind (-4 to hit). Victims get a save vs. spells.

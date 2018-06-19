@@ -1,5 +1,10 @@
 html { hyphens: auto }
-body { font-family: "Palatino Linotype"; text-align: justify; /* columns: 2 */ }
+body {
+    font-family: "Accanthis ADF Std No2";
+    font-size: 14pt;
+    text-align: justify;
+    /* columns: 2 */
+}
 /* portraits */
 img { float: right; margin: 1ex; width: 100px }
 /* footnotes */
