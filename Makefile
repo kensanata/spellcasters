@@ -25,4 +25,5 @@ Spellcasters.md: Foreword.md $(CASTERS)
 	cat spellcasters-prefix $< spellcasters-suffix > $@
 
 upload: $(ALL) Spellcasters.pdf
-	scp -P 882 $^ alexschroeder.ch:alexschroeder.ch/pdfs/spellcasters/
+	rsync --rsh="ssh -p 882" \
+		$^ alexschroeder.ch:alexschroeder.ch/pdfs/spellcasters/
