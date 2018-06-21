@@ -27,7 +27,7 @@ and will refuse attunement to anything else.
 
 **Light foot** (1) allows you to walk for 4h without leaving any tracks. You will not sink into snow nor disturb any leaves. The gras does not feel your touch and the branches will not snap. You can surprise your opponents on 1–3 in 6.
 
-**Sleep** (1) puts 2d8 HD of creatures to sleep. It works on friend and foe alike, so it cannot safely be used against foes in melee. Lower hit-dice and lower hit-points are affected first. No save. Creatures with more than four hit-dice are immune.
+**Sleep** (1) puts 2d8 HD of creatures to sleep. It works on friend and foe alike, so it cannot safely be used against foes in melee. Lower hit dice and lower hit points are affected first. No save. Creatures with more than four hit dice are immune.
 
 **Water walking** (1) enables a target to walk on liquids for 20min. Usually, this means water, but it might also be lava or quicksand. This spell does not protect against the heat or noxious fumes.
 

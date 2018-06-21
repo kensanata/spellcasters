@@ -24,7 +24,7 @@ spends hours and days as a blue dragon in her palace: AC -1
 
 **Lunar Runes** (1) allows you to read and write the ancient elven runes powered by lunar magic for 20min. These runes are usually invisible or hidden within ornaments and other writing. This spell makes the lunar runes glow in a pale light, visible to all.
 
-**Sleep** (1) puts 2d8 HD of creatures to sleep. It works on friend and foe alike, so it cannot safely be used against foes in melee. Lower hit-dice and lower hit-points are affected first. No save. Creatures with more than four hit-dice are immune.
+**Sleep** (1) puts 2d8 HD of creatures to sleep. It works on friend and foe alike, so it cannot safely be used against foes in melee. Lower hit dice and lower hit points are affected first. No save. Creatures with more than four hit dice are immune.
 
 **True Words** (2) allows you to look into the eyes of people and read their feelings, see their imaginations, and hear their thoughts unless they save vs. spells. These secrets are revealed to you across all language barriers. In order to learn something specific, the target must also think about it. How you make them do it is up to you. The target will know that you are there inside their head.
 
