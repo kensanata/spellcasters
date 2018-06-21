@@ -21,5 +21,7 @@ p + p { text-indent: 1.5em; margin-top: 0 }
 }
 /* bookmarks, table of contents */
 h1, h3 { bookmark-level: none }
-/* page breaks: FIXME (has no effect?) */
+/* page breaks */
 h2 { break-before : always }
+/* except for the first one */
+h1 + h2 { break-before : auto }
