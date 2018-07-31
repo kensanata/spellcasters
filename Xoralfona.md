@@ -1,7 +1,14 @@
 ## Xoralfona
 
 ![Xoralfona](Xoralfona.png)
-Xoralfona is a famous bard.
+
+Xoralfona is a singer, a songwriter, a wordsmith, a master of her
+voice and her many flutes. She doesn't have a useless "tower" or any
+other sort of fixed residence. Her home is where her hat is. She
+travels with friends and guests, a party of around 40 people,
+musicians, acrobats, magic users, thieves, young elves, adventurous
+halflings – it's a travelling circus, with horses and ox cars, animal
+handlers, and many magic traps.
 
 ### The Book of Songs
 
@@ -30,9 +37,15 @@ impossible. A victim may save vs. spells to realize what is going and
 and to hide their thoughts. Nobody can hide the fact that they are
 hiding their thoughts from you, however.
 
-**...** (2)
+**Entrapment** (2) creates a 10ft diameter trapped zone which wakes
+and alerts anybody nearby with a loud whistle if anybody steps into
+it. Victims must save vs. spells in order to move out of the zone.
+Flying over the entrapment avoids the trap. The entrapment lasts for
+24h but the caster may end the spell at any time.
 
-**...** (2)
+**Mind Blast** (2) turns a silent "boo!" into an overwhelming panic
+attack. 1d4 victims must save vs. spells or be knocked out for 10min.
+Those who make the save are still stunned for a round.
 
 **Speak** (3) allows you to speak to any intelligent creature and
 understand what it is saying. For the purposes of this spell, anything
@@ -57,7 +70,13 @@ any divine powers, no matter how desperate your situation. Divine help
 might include your evacuation to the realm of the power you called
 upon, the arrival of a divine agent like a valkyrie.
 
-**...** (4)
+**Misdirection** (4) creates a magical maze protecting an area 100ft
+in diameter from discovery. This area is big enough for a nice camp
+site or a small house. Anybody entering the area from the outside
+without help from somebody inside must save vs. spells or pass through
+the area without discovering the protected area. They simply see
+whatever they expect to see around here: more trees, dark alleys,
+corridors and rooms, whatever is appropriate and soon forgotten.
 
 **Vanishing** (4) creates a link between you and your current
 location. With a simple thought you may instantly teleport yourself
@@ -78,4 +97,9 @@ enemy army as you're crossing a river, you could be transported to
 Vanaheim, into a different ambush but on dry ground, or still standing
 in a river but no longer under attack.
 
-**...** (5)
+**Unbound** (5) frees you from the world's shackles. No barrier can
+hold you, nothing can touch you; you can move through your current
+realm by a thought alone. This means that you still need to know the
+way in order to get to your destination, but if you don't are about
+the destination, you are truly free. Not even gravity can touch you.
+Sadly, the passage of time remains unaffected.
