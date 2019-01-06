@@ -14,7 +14,7 @@ Sadly, some of Fiala’s descendants learned of this deal and now they’ve turn
 
 ### Treasure
 
-The *amulet of treading softly* turns its wearer invisible to the undead as long as they hold their breath. This is how Agrimach sneaks out of his cellar without disturbing the zombies without creating any kind of deactivation mechanism that could be abused. Furthermore, it can be a poisoned gift, as he can show you how it works without revealing that you have to hold your breath, thus ensuring a really mean surprise if you trust it without him.
+The *amulet of treading softly* turns its wearer invisible to the undead as long as they hold their breath. This is how Agrimach sneaks out of his cellar without disturbing the zombies and without creating any kind of deactivation mechanism that could be abused. Furthermore, it can be a poisoned gift, as he can show you how it works without revealing that you have to hold your breath, thus ensuring a really mean surprise if you trust it without him.
 
 ### The Book of the Dead
 
