@@ -17,22 +17,29 @@ always twelve elven students in the tower with Taurnalin.
 
 ### The Book of Trees
 
-**Magic Bow and Arrows** summones a magic bow +1 and a quiver with 20
-arrows. These last until all the arrows have been shot, the bow is
+**Magic Bow and Arrows** (1) summons a magic bow +1 and a quiver with
+20 arrows. These last until all the arrows have been shot, the bow is
 released, or 20min have passed. The bow cannot be passed to anybody
 else.
 
-**...** (1)
+**Shield Wall** (1) summons the broken palisades and splintered
+shields from the battlefields of Asgard to create a wooden wall 30ft
+wide and 6ft tall. Breaking down this wall requires ten minutes with
+axes or a battering ram, and even longer using fire. The wood is
+otherwise permanent.
 
 **...** (1)
 
-**...** (2)
+**Tree Jump** (2) allows you to step into any tree and out of any
+other tree within 100ft, up to ten times in ten minutes.
 
 **...** (2)
 
 **...** (2)
 
-**...** (3)
+**Animate Tree** (3) turns a tree into a treant for 20m (HD 8 AC 8
+2d6/2d6 F8 MV 6; surprise foes 1–3/6). The treant speaks your language
+and is as helpful as it can.
 
 **...** (3)
 
@@ -42,7 +49,16 @@ else.
 
 **...** (4)
 
-**...** (4)
+**Gallow Tree** (4) calls forth a permanent evil from Niflheim: a
+large tree bursts from the ground and snatches up to fifteen people
+within reach, trying to strangle them. When hit, victims must save
+vs. death or be caught; and if they are caught, they must save vs. or
+faint in the second round; and they are not cut down in the third
+round, they die. The tree keeps using its arms to snatch and kill
+until it has fifteen victims. These turn into loyal ghouls over night
+and are dropped onto anybody approaching the tree (HD 15 AC 8
+*special* F8 MV 0; ghouls: HD 2 AC 6 1d4/1d4/1d4 + *paralysis* F2
+MV 9).
 
 **...** (5)
 
