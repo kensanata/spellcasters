@@ -27,3 +27,6 @@ Spellcasters.md: Foreword.md $(CASTERS)
 upload: $(ALL) Spellcasters.pdf
 	rsync --rsh="ssh -p 882" \
 		$^ alexschroeder.ch:alexschroeder.ch/pdfs/spellcasters/
+
+missing:
+	grep -l '\.\.\.' *.md
