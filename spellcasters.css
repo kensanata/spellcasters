@@ -1,9 +1,31 @@
 html { hyphens: auto }
 body {
-    font-family: "Accanthis ADF Std No2";
-    font-size: 14pt;
+    font-family: "fbb";
+    font-size: 12pt;
+    line-height: 16pt;
     text-align: justify;
     /* columns: 2 */
+}
+h1 {
+    font-size: 24pt;
+    line-height: 36pt;
+    font-weight: normal;
+    font-style: italic;
+}
+h2 {
+    font-size: 20pt;
+    line-height: 30pt;
+    font-weight: normal;
+    font-style: italic;
+}
+h3 {
+    font-size: 14pt;
+    line-height: 16pt;
+    font-weight: normal;
+    font-style: italic;
+}
+sup {
+    font-size: 70%;
 }
 /* portraits */
 img { float: right; margin: 1ex; width: 100px }
