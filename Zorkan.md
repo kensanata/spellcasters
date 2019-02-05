@@ -64,12 +64,43 @@ throw them for 20min like giants do: roll to-hit as you would, deal
 spell ends while you're still gliding through the earth, you suffocate
 and remain stuck forever.
 
-**...** (4)
+**Earth Ship** (4) summons forth ship of stone that can glide through
+the earth while the sun is up. Only you can make it move. Without you,
+or without sunlight, it stops, resulting in a strange stone building.
+Similarly, all the trail of destruction it leaves as it plows through
+the land are permanent: buildings are destroyed, trees are smashed,
+canals are dug.
 
-**...** (4)
+**Split the Ground** (4) allows you to smash your fist into the ground
+and split the earth. A fissure opens within seconds, and it keeps
+growing longer and wider while you concentrate. If you stand in front
+of people and you want the fissure to open underneath their feet, it
+will. Anybody within 60ft must save vs. death or fall, taking 8d8
+damage. If you have the time, you can turn a peninsula into an island,
+or ruin a city, and if you're immortal, you can split a continent.
 
-**...** (4)
+**Bury the Living** (4) allows you to have the ground swallow a living
+being standing on it. They must save vs. death or they are buried
+alive in a depth unknown. There they remain in a magic stasis until
+the end of the world unless they are called forth by a reversal of
+this spell. Since they are not really dead, their soul remains
+imprisoned in their body and they cannot be raised from the dead
+unless they brought back to the surface. It is possible to cast the
+reversed spell without a specific target in mind, in which case a
+random victim of the past millennias is freed: a powerful and thankful
+non-player character of level 6+1d4 with all their equipment on them.
 
-**...** (5)
+**Earthblood Mastery** (5) enables you to find one of those rare spots
+where the Veins of the Earth meet and master their energy. From this
+spot, you can control the powers of creation. Within 120ft from this
+spot, you can create or destroy inanimate matter as you wish. This
+takes 10min.
 
-**...** (5)
+**Stone Growth** (5) calls forth the Bones of the Earth and bends them
+to your will. Long columns of stone will rise from the ground all
+around you and bend and twist as you like. If you use these to fight,
+you now have two melee attacks dealing 3d10 each and a reach of 60ft.
+After 10min these columns solidify and turn into a fantastic stone
+sculptures, towers, dams, or whatever else strikes your fancy. You can
+keep growing structures like that and build a mountain, if you have
+the time.
