@@ -1,7 +1,19 @@
 ## Zorkan
 
-![Zorkan](Zorkan.png)
-To be done.
+![Zorkan](Zorkan.png) On the top of Mount Whiterock there is a palace
+of thin towers, elegant arches and long ramps overlooking the mountain
+range below, a barren wilderness infested with chimeras, ettins, ogres
+and trolls. This is the *Palace of the Mad Emperor*, a structure grown
+from the mountain itself by one of the greatest geomancers and his
+legacy survived his madness and the folly of his successors. The Earth
+Blood leaking into the surface world is the source of both the
+powerful magic and the corruption of the land. This is where Zorkan
+lives, admired by thirteen students, served by five stone golems (HD 9
+AC 1 3d6 MV 12; immune to cold, fire, poison, sleep and charms), and
+surrounded by about two thousand clay soldiers. Of these, about fifty
+are under the control of the students, constantly building and
+rebuilding the palace and its defences (HD 3 AC 6 1d10 MV 12; immune
+to cold, fire, poison, sleep and charms).
 
 ### The book of Geomancy
 
@@ -37,7 +49,8 @@ the forehead of the little creature. A *clay* golem has HD 3 AC 6 1d10
 MV 12. When you reach level 9, you can create a *stone* golem with HD
 9 AC 1 3d6 MV 12. Such a creature needs no rest, no food, no water and
 no friends. It does not sicken nor will it ever die unless destroyed
-by violence. Golems do not speak and are a bit dim. They don't use
+by violence. It is not affected by cold, fire, poison, sleep or
+charms. Golems do not speak and are a bit dim. They don't use
 interesting tactics, they can't cast spells and they don't use ranged
 weapons, but they will defend their creator at all costs, taking any
 blows aimed at them, if possible. Sadly, while most are loyal servants
