@@ -55,10 +55,14 @@ one day.
 reality, drawing a line of ice and cold from you towards any target
 you point to within 120ft. Anybody caught up in the blast must save
 vs. spells and take 3d10 damage or be covered by magic ice. The magic
-ice will weaken and break in 10min if the air is warm enough, or if it
-is smashed. If the ice is smashed, the victim takes 3d10 damage and is
-surprised, granting a free round of attacks. The magic ice cover makes
-sure encased victims are not helpless.
+ice weakens and breaks in 10min if the air is warm enough, or if it is
+smashed. If the ice is smashed, the victim takes an extra 3d10 damage
+and is surprised, granting a free round of attacks. The magic ice
+encases victims, paralysing them, but it also protects them from
+further attacks until the ice is smashed or weakens and breaks
+eventually. If the air isn't warm enough to melt the magic ice,
+encased victims remain frozen until it does, possibly for a *very*
+long time.
 
 **Water way** (3) allows you to redirect a flow of water 5ft wide
 within 300ft. It will even flow through the air for as long as you
