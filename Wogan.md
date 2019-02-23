@@ -7,6 +7,13 @@ with three scores of acolytes tending to the sick and the wounded. The
 hill is covered in simple huts and long houses dug into the ground so
 that all you see are their earthen roofs overgrown with grass.
 
+As is soon apparent, Wogan knows how to wash wounds and set bones but
+as is also apparent, his healing is non-magical. He only uses magic to
+lift the spirits of those around him. And yet everybody knows that he
+is a powerful spell caster. People simply don't quite know *what* he
+can do or where he learned his skills. All they know is that he likes
+to surround himself with wolves and he likes watching the moon.
+
 Wherever Wogan goes he is accompanied by a loyal companion: a white
 wolf nearly as big as pony. This is the winter wolf *Frostbite*, HD
 5+1 AC 4 bite 1d10 (1–4/6) or breath of ice 2d6 for 5m (5–6/6) F6 MV
@@ -15,8 +22,6 @@ deals +1 per damage die; speaks.
 
 ### The Book of the Winter Wolf
 
-**Wolf tongue** (1) allows you to talk to all sorts of wolves, dogs
-and hyenas for an hour.
 
 **Joyful dog** (1) gives anybody you touch a flash visions of puppies
 and happy dogs running around. This vision lifts their spirits and
@@ -28,11 +33,8 @@ touched the surface you're sniffing. You can track them. You recognise
 anybody you've previously smelled with this supernatural sense. You
 can track creatures if you keep your nose to the ground.
 
-**Wolf howl** (2) is a supernatural howl that alerts all the wolves
-within a mile or two. These wolves understand the short message you
-have sent and act upon it, if they can. In forests, mountains, ruins,
-savannas, or swamps 3d6 wolves appear in 10min and stay for up to an
-hour, if you want (HD 2+1 AC 7 1d6 F1 MV 18).
+**Wolf tongue** (1) allows you to talk to all sorts of wolves, dogs
+and hyenas for an hour.
 
 **Night vision** (2) grants you and your pack (up to twenty people)
 the ability to see 60ft in moonlight or starlight. The only place your
@@ -41,6 +43,12 @@ eyes still cannot penetrate is the absolute darkness underground.
 **Silent paws** (2) grants you and your pack (up to twenty people) the
 ability to run silently for 8h, if and only if you're not wearing
 metal armour.
+
+**Wolf howl** (2) is a supernatural howl that alerts all the wolves
+within a mile or two. These wolves understand the short message you
+have sent and act upon it, if they can. In forests, mountains, ruins,
+savannas, or swamps 3d6 wolves appear in 10min and stay for up to an
+hour, if you want (HD 2+1 AC 7 1d6 F1 MV 18).
 
 **Ice gate** (3) weakens the veil of the world separating Jötunheim
 from your current realm anywhere within 20ft of you. You can fill this
