@@ -61,7 +61,11 @@ ice won't harm you. Only silver or magic weapons can hurt you – or
 spells. Additionally, your natural AC goes down to 5 if it isn't
 better, and you can bite for 1d10, if you want.
 
-**...** (3)
+**Wolf pack** (3) turns you and your pack (up to twenty people) into
+ordinary wolves: HD 2+1 AC 7 1d6 F1 MV 18. The wolf's hp may not
+exceed the target's current hp. All targets can turn back to their
+true form whenever they want, or when they are reduced to 0hp. Any hp
+lost as a wolf remain lost when returning to their true form.
 
 **Call of the wolf** (4) summons 2d6 intelligent *shadow wolves* from
 the void between the realms. These stay for 10min: HD 2+1 AC 7 1d6 F1
@@ -75,13 +79,37 @@ brothers, one pack, one family. A place outside of time. This is where
 the big hounds hunt, this is were the immortals tread - the ones that
 simply never went back. They decided to remain here, where the
 glaciers are thick and strong and the tundra stretches forever. You
-can spend as many days and months and years here as you want. When you
-are ready, you return to the exact same moment in time, but by moving
-around in the Dreamtime, you also move your point of return. Thus, you
-may travel in an instant as far as your legs can carry you.
+can spend as many days and months and years here as you want. By
+moving around in the Dreamtime, you also move your point of return.
 
-**...** (4)
+**To dust** (4) transforms you and all you designate within 10ft into
+dust. Unwilling targets must save vs. spells or be turned to dust. If
+a wind blows, the dust is picked up and settles in a neighbouring
+region. Roll a die to determine the current wind direction when it has
+not been established. Use a d10 to determine where you are being
+blown: 1 = North, 3 = East, 5 = South, 7 = West, 9 and 10 = nowhere.
+Use a d8 when using a hex map. If you are blown out to sea, you are
+all going to drown, so don't do that. If there is no wind, you can
+call up a gust of wind to blow the dust for 60ft in a particular
+direction. There, you can lie in dust form for up to 8h.
 
-**...** (5)
+**Bone binding** (5) is an ancient ritual by which you can boil away
+your flesh, and bind your own bones, turning yourself immortal. The
+spell slot for this spell is permanently bound to your bones and no
+longer available. You can no longer be healed but if your pieces are
+reassembled, you are restored within a week. You can never be killed,
+your bones cannot be broken, nor can they be burned, but they can be
+ripped apart and buried in far away places to break your power. Your
+soul, your senses, your power of speech, and your ability to cast
+spells remains bound to your skull for all eternity. And you *know*
+where your remaining bones are.
 
-**...** (5)
+**Imprisonment** (5) allows you to put a dent in reality and seal of a
+pocket of time and space, imprisoning a target unless they save
+vs. spells. For the imprisoned, time passes by their body requires
+neither food nor drink, nor does it age. Thus, they cannot be
+resurrected, nor can they be recalled from an afterlife. The prison
+weakens within a day unless you spend 10min fortifying it for a year
+and a day. If you spend a day fortifying it, the prison lasts for a
+thousand years unless the seals are broken. Describe the seals and how
+they must be broken for this to occur.
