@@ -31,7 +31,7 @@ attackers put their weapons away, victims of this spell stop fighting
 at the end of the round. Victims are only granted a saving throw vs.
 spells if they are the same level as you or higher.
 
-**Mind Reading** (2) allows you to read one other person's mind as
+**Mind reading** (2) allows you to read one other person's mind as
 soon as they look into your eyes. This lasts for 20min. Lies are
 impossible. A victim may save vs. spells to realize what is going and
 and to hide their thoughts. Nobody can hide the fact that they are
@@ -43,7 +43,7 @@ it. Victims must save vs. spells in order to move out of the zone.
 Flying over the entrapment avoids the trap. The entrapment lasts for
 24h but the caster may end the spell at any time.
 
-**Mind Blast** (2) turns a silent "boo!" into an overwhelming panic
+**Mind blast** (2) turns a silent "boo!" into an overwhelming panic
 attack. 1d4 victims must save vs. spells or be knocked out for 10min.
 Those who make the save are still stunned for a round.
 
@@ -87,7 +87,7 @@ For the purposes of this spell, assume that you can carry another
 person, maybe two if they are as small as a child, like halflings or
 dwarves.
 
-**World Walk** (5) gives the music you play a special power: as you
+**World walk** (5) gives the music you play a special power: as you
 walk and play, you can move yourself and anybody visible whom you want
 to take along to a similar situation elsewhere. Surely somewhere in
 the nine realms a similar situation is unfolding: describe a simple

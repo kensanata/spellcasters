@@ -18,7 +18,7 @@ to cold, fire, poison, sleep and charms).
 ### The book of Geomancy
 
 
-**Magic Message** (1) enchants a stone such that under the conditions
+**Magic message** (1) enchants a stone such that under the conditions
 named it speaks a short message. The conditions named must be such
 that the caster knows right then and there whether they are fulfilled
 or not. Thus, "when Orland the Wise walks by" is perfectly reasonable
@@ -26,25 +26,25 @@ if the caster knows Orland even though the stone has no idea. On the
 other hand, "when the assassin of King Gerold the Good walks by" won't
 work unless the caster knows who it is.
 
-**Flying Stones** (1) causes a rock lying on the ground to levitate.
+**Flying stones** (1) causes a rock lying on the ground to levitate.
 You can move it around for 10min with the wave of a hand and with an
 air punch it flies off up to 120ft and deals 2d6 damage on a target,
 save vs. spells for half.
 
-**Stone Fist** (1) raises your strength to 18 for 10min: +3 to melee
+**Stone fist** (1) raises your strength to 18 for 10min: +3 to melee
 attacks, 1d6+3 damage, smash doors on a 1–5 in 6.
 
-**Speak with Stones** (2) allows you to talk to rocks for 20min.
+**Speak with stones** (2) allows you to talk to rocks for 20min.
 Sadly, their perspective is limited by their rock nature. They may
 report things they heard or saw (if there was light), their memories
 go back a long time, but they can't tell individuals apart and their
 sense of time is confusing at best.
 
-**Giant Rock Throwing** (2) allows you to pick up a large rock and
+**Giant rock throwing** (2) allows you to pick up a large rock and
 throw it like giants do: roll to-hit as you would, deal 3d6 on a hit,
 no save.
 
-**Golem Craft** (2) animates clay. This requires a cheap gem set into
+**Golem craft** (2) animates clay. This requires a cheap gem set into
 the forehead of the little creature. A *clay* golem has HD 3 AC 6 1d10
 MV 12. When you reach level 9, you can create a *stone* golem with HD
 9 AC 1 3d6 MV 12. Such a creature needs no rest, no food, no water and
@@ -58,33 +58,33 @@ they still take a retainer slot. If their creator has more retainers
 than allowed by their charisma, the golems may malfunction and gain
 independence.
 
-**Raise Stone** (2) allows you to slowly raise a boulder as big as a
+**Raise stone** (2) allows you to slowly raise a boulder as big as a
 carriage from the ground. Possible uses include blocking vehicles,
 creating a rampart, building a bridge, or rolling downhill. It is
 easily avoided by individuals under most circumstances.
 
-**Stone Skin** (3) turns your body to some sort of weird stone
+**Stone skin** (3) turns your body to some sort of weird stone
 material: impervious to cold, fire, poison, and your AC goes down to.
 Also, you can no longer swim and you still need to breathe, so good
 luck with that.
 
-**Giant Rock Throwing** (3) allows you to pick up large rocks and
+**Giant rock throwing** (3) allows you to pick up large rocks and
 throw them for 20min like giants do: roll to-hit as you would, deal
 3d6 on a hit, no save.
 
-**Rock Swim** (3) allows you to dive into the rock like a fish and
+**Rock swim** (3) allows you to dive into the rock like a fish and
 "swim" for 10min and to glide through the earth up to 1000ft. If the
 spell ends while you're still gliding through the earth, you suffocate
 and remain stuck forever.
 
-**Earth Ship** (4) summons forth ship of stone that can glide through
+**Earth ship** (4) summons forth ship of stone that can glide through
 the earth while the sun is up. Only you can make it move. Without you,
 or without sunlight, it stops, resulting in a strange stone building.
 Similarly, all the trail of destruction it leaves as it plows through
 the land are permanent: buildings are destroyed, trees are smashed,
 canals are dug.
 
-**Split the Ground** (4) allows you to smash your fist into the ground
+**Split the ground** (4) allows you to smash your fist into the ground
 and split the earth. A fissure opens within seconds, and it keeps
 growing longer and wider while you concentrate. If you stand in front
 of people and you want the fissure to open underneath their feet, it
@@ -92,7 +92,7 @@ will. Anybody within 60ft must save vs. death or fall, taking 8d8
 damage. If you have the time, you can turn a peninsula into an island,
 or ruin a city, and if you're immortal, you can split a continent.
 
-**Bury the Living** (4) allows you to have the ground swallow a living
+**Bury the living** (4) allows you to have the ground swallow a living
 being standing on it. They must save vs. death or they are buried
 alive in a depth unknown. There they remain in a magic stasis until
 the end of the world unless they are called forth by a reversal of
@@ -103,13 +103,13 @@ reversed spell without a specific target in mind, in which case a
 random victim of the past millennias is freed: a powerful and thankful
 non-player character of level 6+1d4 with all their equipment on them.
 
-**Earthblood Mastery** (5) enables you to find one of those rare spots
+**Earthblood mastery** (5) enables you to find one of those rare spots
 where the Veins of the Earth meet and master their energy. From this
 spot, you can control the powers of creation. Within 120ft from this
 spot, you can create or destroy inanimate matter as you wish. This
 takes 10min.
 
-**Stone Growth** (5) calls forth the Bones of the Earth and bends them
+**Stone growth** (5) calls forth the Bones of the Earth and bends them
 to your will. Long columns of stone will rise from the ground all
 around you and bend and twist as you like. If you use these to fight,
 you now have two melee attacks dealing 3d10 each and a reach of 60ft.

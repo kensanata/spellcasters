@@ -18,42 +18,42 @@ deals +1 per damage die; speaks.
 **Wolf tongue** (1) allows you to talk to all sorts of wolves, dogs
 and hyenas for an hour.
 
-**Joyful Dog** (1) gives anybody you touch a flash visions of puppies
+**Joyful dog** (1) gives anybody you touch a flash visions of puppies
 and happy dogs running around. This vision lifts their spirits and
 restores 1d6+1 hit points, up to their maximum.
 
-**Locate Creature** (1) gives you a supernatural sense of smell for an
+**Locate creature** (1) gives you a supernatural sense of smell for an
 hour. You can tell what kind of creatures walked over the ground or
 touched the surface you're sniffing. You can track them. You recognise
 anybody you've previously smelled with this supernatural sense. You
 can track creatures if you keep your nose to the ground.
 
-**Wolf Howl** (2) is a supernatural howl that alerts all the wolves
+**Wolf howl** (2) is a supernatural howl that alerts all the wolves
 within a mile or two. These wolves understand the short message you
 have sent and act upon it, if they can. In forests, mountains, ruins,
 savannas, or swamps 3d6 wolves appear in 10min and stay for up to an
 hour, if you want (HD 2+1 AC 7 1d6 F1 MV 18).
 
-**Night Vision** (2) grants you and your pack (up to twenty people)
+**Night vision** (2) grants you and your pack (up to twenty people)
 the ability to see 60ft in moonlight or starlight. The only place your
 eyes still cannot penetrate is the absolute darkness underground.
 
-**Silent Paws** (2) grants you and your pack (up to twenty people) the
+**Silent paws** (2) grants you and your pack (up to twenty people) the
 ability to run silently for 8h, if and only if you're not wearing
 metal armour.
 
-**Ice Gate** (3) weakens the veil of the world separating Jötunheim
+**Ice gate** (3) weakens the veil of the world separating Jötunheim
 from your current realm anywhere within 20ft of you. You can fill this
 space with a snow avalanche up to 5ft high. Anybody caught in the area
 except for you must save vs. paralysis or be buried by the snow. One
 buried, victims are immobilised and suffocate in 10min unless dug out
-by others. Alternatively, anybody in the affected area can cross over
-to Jötunheim, if they want to. Note that when in Jötunheim without
-appropriate equipment and clothing, the cold kills you in 2h. If you
-cast the spell in Jötunheim, you can cross over to Midgard, the realm
-of humans. The gate leads to the nearest snow-covered mountain
-measured from the last location you were on Midgard. If you have never
-been to Midgard, it's a random snow-covered mountain.
+by others. For the next 10min, anybody in the target area can walk
+over to Jötunheim, if they want to. Note that when in Jötunheim
+without appropriate equipment and clothing, the cold kills you in 2h.
+If you cast the spell in Jötunheim, you can cross over to Midgard, the
+realm of humans. The gate leads to the patch of snow nearest to your
+last location on Midgard. If you have never been to Midgard, it's a
+random, snow-covered mountain.
 
 **Werewolf** (3) turns you into a werewolf: immune to normal weapons.
 You can fall from incredible heights without taking damage. Fire and
