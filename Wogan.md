@@ -52,16 +52,16 @@ hour, if you want (HD 2+1 AC 7 1d6 F1 MV 18).
 
 **Ice gate** (3) weakens the veil of the world separating Jötunheim
 from your current realm anywhere within 20ft of you. You can fill this
-space with a snow avalanche up to 5ft high. Anybody caught in the area
-except for you must save vs. paralysis or be buried by the snow. One
-buried, victims are immobilised and suffocate in 10min unless dug out
-by others. For the next 10min, anybody in the target area can walk
-over to Jötunheim, if they want to. Note that when in Jötunheim
-without appropriate equipment and clothing, the cold kills you in 2h.
-If you cast the spell in Jötunheim, you can cross over to Midgard, the
-realm of humans. The gate leads to the patch of snow nearest to your
-last location on Midgard. If you have never been to Midgard, it's a
-random, snow-covered mountain.
+space with a snow up to 5ft high. Anybody caught in the area except
+for you must save vs. paralysis or be swept off their feet and buried
+by the snow. One buried, victims are immobilised and suffocate in
+10min unless dug out by others. For the next 10min, anybody in the
+target area can walk over to Jötunheim, if they want to. Note that
+when in Jötunheim without appropriate equipment and clothing, the cold
+kills you in 2h. If you cast this spell in Jötunheim, you can cross
+over to Midgard, the realm of humans. The gate leads to the patch of
+snow nearest to your last location on Midgard. If you have never been
+to Midgard, it's a random, snow-covered mountain.
 
 **Werewolf** (3) turns you into a werewolf: immune to normal weapons.
 You can fall from incredible heights without taking damage. Fire and
