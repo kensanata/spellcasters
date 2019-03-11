@@ -2,11 +2,11 @@
 
 ## Foreword
 
-Magic users and elves need to learn new spells from somebody, be it a
-monster or another spellcaster, a non-player character with a spell
-list, according to my house rules,
-[Halberds & Helmets](https://alexschroeder.ch/wiki/Halberds_and_Helmets). This book lists important spellcasters which can act
-as quest givers and teachers for player characters.
+In [Halberds &
+Helmets](https://alexschroeder.ch/wiki/Halberds_and_Helmets), magic
+users and elves need to learn new spells from another spellcaster.
+This book lists a few of them to act as quest givers and teachers for
+player characters.
 
 All these magic users and elves are level ten. This is where I usually
 cap the game and I'm not interested in semi-divine magic users and
@@ -16,9 +16,9 @@ quest for it. All of this means that the repertoire of these
 spellcasters is always the same: two spells of the fifth circle and
 three spells of every circle below that.
 
-The magic users have 10d4 hit points, elves have 10d6 hit points, they
-save as a magic user or elf of the tenth level, they will wear no
-armor unless they are an elf on a mission, and so on.
+The magic users have 10d4 hit points and wear no armour (AC 9), elves
+have 10d6 hit points and wear fancy elven plate armour and a shield
+when outside their homes (AC 2).
 
 As for the spells themselves, it is unavoidable that some classic
 spells are repeated. I hope you don't mind. If you have better ideas,
@@ -30,10 +30,10 @@ These are the spells that the spellcasters have. It is up to the
 players to decide which variants their characters consider worth
 learning.
 
-As for the general classification: if a spell has a quantifiable
-effect in the 1d6 range, it's a spell of the first circle. If said
-effect is in the 1d6 per caster level range, it's a spell of the third
-circle. Everything else follows from there.
+As for the general classification, this is my rule of thumb: if a
+spell has a quantifiable effect in the 1d6 range, it's a spell of the
+first circle. If said effect is in the 1d6 per caster level range,
+it's a spell of the third circle. Everything else follows from there.
 
 ## License
 
