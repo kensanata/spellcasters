@@ -15,7 +15,7 @@ This is usually a terrible crime, but as Elam no longer seems to be
 leaving his tower, nobody fears his wrath. People have destroyed all
 the remaining mirrors in Garvalheim, though.
 
-### The Book of Doors
+### The Book of Liminurgy
 
 **Lock** (1) locks any closed door¹ such that only the caster can open
 it. Doing so ends the enchantment, though. No amount of force can open
