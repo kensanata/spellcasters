@@ -40,9 +40,8 @@ report things they heard or saw (if there was light), their memories
 go back a long time, but they can't tell individuals apart and their
 sense of time is confusing at best.
 
-**Giant rock throwing** (2) allows you to pick up a large rock and
-throw it like giants do: roll to-hit as you would, deal 3d6 on a hit,
-no save.
+**Throw a rock** (2) allows you to pick up a large rock and throw it
+like giants do: roll to-hit as you would, deal 3d6 on a hit, no save.
 
 **Golem craft** (2) animates clay. This requires a cheap gem set into
 the forehead of the little creature. A *clay* golem has HD 3 AC 6 1d10
@@ -68,9 +67,9 @@ material: impervious to cold, fire, poison, and your AC goes down to.
 Also, you can no longer swim and you still need to breathe, so good
 luck with that.
 
-**Giant rock throwing** (3) allows you to pick up large rocks and
-throw them for 20min like giants do: roll to-hit as you would, deal
-3d6 on a hit, no save.
+**Rock throwing** (3) allows you to pick up large rocks and throw them
+for 20min like giants do: roll to-hit as you would, deal 3d6 on a hit,
+no save.
 
 **Rock swim** (3) allows you to dive into the rock like a fish and
 "swim" for 10min and to glide through the earth up to 1000ft. If the
