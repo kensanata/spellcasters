@@ -1,11 +1,19 @@
 ## Narga
 
-![Narga](Narga.png)
-Narga is the Pirate Queen of the South Seas. 
+![Narga](Narga.png) Narga is the Pirate Queen of the South Seas. She's
+old now, but her ruthlessness is legendary, and thus the twelve ships
+of her fleet are led by loyal captains, each leading about a hundred
+men and women. Many a coastal town has been picked clean by them.
 
-### Treasure
-
-...
+Narga was a child of the cruel sea hag Grysella. The hag would lure
+ships onto the rocks, slay the crew for unfathomable reasons, but
+charm the last surviving man and have his child. These children she
+sent away as soon as they had learned her spells. When Narga left her,
+she considered the life of a sea hag and decided that she would do
+better. When she had lured in her first ship, she simply climbed
+aboard and charmed the captain, slowly insinuating herself into the
+power structure. And twenty years later, she is the Pirate Queen of
+the South Seas.
 
 ### Book of the Sea Hag
 
@@ -18,27 +26,40 @@ free, they remember everything they did and if they did anything they
 would not have ordinarily have done, they react with shame and anger.
 Charms usually cause severe emotional distress!
 
-**...** (1)
+**Needles and puppets** (1) is the art of making and enchanting little
+puppets made of straw and twigs and bits of cloth and lock of hair.
+Within ten minutes you can enchant the puppet such that it mimics the
+actions of the person whose hair you used: when they dance the puppet
+dances, when they fight, the puppet fights, and when they talk, the
+puppet yaps. Once per day you can stab the puppet with a needle the
+owner of the hair takes 1d6 damage. When reduced to zero hit points,
+they must save vs. death or die. You can enchant as many puppets as
+you have levels. If you enchant more, the older puppets gain
+independence and run away, trying to warn the owner of their hair.
 
 **Water walking** (1) enables a target to walk on liquids for 20min.
 Usually, this means water, but it might also be lava or quicksand.
 This spell does not protect against the heat or noxious fumes.
 
-**Long Dive** (2) allows five people to breathe underwater for 20min.
+**Long dive** (2) allows five people to breathe underwater for 20min.
 
 **Speak with skulls** (2) allows you to reach through time and space
 into the afterlife and contact the souls that inhabited the skull you
 are holding. The conversation continues for as long as you keep
 talking. The soul is not necessarily friendly and cannot be charmed.
 
-**...** (2)
+**Beauty** (2) turns you into a beautiful and alluring young woman for
+a day and a night, an eye catcher, one that makes others stumble and
+gawk. Your smell is intoxicating, your voice is bliss, your hair so
+beautiful people cry tears of joy when they see it. Anybody attracted
+to your sex must save vs. spells whenever they want to act against
+your wishes. If they make the save, they may move as they wish and say
+what they want, for an hour.
 
-**Rock Throw** (3) allows you to open a tiny hole into the *Deep
-Earth* and grab a floating rock throbbing with *Earth Blood*. With a
-shout, throw, punch or kick the rock and it flies 200ft. through the
-air and smashes anything made of wood. Creatures in its path take 1d6
-damage per caster level (5d6 minimum), save vs. spells for half
-damage.
+**Invisible claws** (3) focuses your hate into invisible claws or
+blades which whizz through the air, cutting skin and flesh wherever
+they can. Roll an attack on anybody within 60ft for every level of
+yours and deal 3d6 if you hit. No save.
 
 **Curse of Drowning** (3) allows you to pick a living and breathing
 creature and curse them to near drowning for an hour. They lungs fill
@@ -48,7 +69,12 @@ attacking). If they fail, all they can do is gag up the water. If they
 fail twice in a row (easily avoided by simple not doing anything
 everytime you fail), you faint for 1d6 rounds.
 
-**...** (3)
+**Sea of Fog** (3) calls forth the fog spirits from a small lake or a
+larger body of water. Within an hour, the fog can cover an area so
+large it would take somebody half an hour to cross from one end to the
+other. This is large enough to fill the streets of a town, conceal a
+harbour, hide a reef, or cover a valley. Within the fog, visibility is
+limited to a few feet.
 
 **Like Leaves** (4) allows you to enchant an area of 20ft. diameter
 with up to 20 people in it (you included, if you want) in order to
