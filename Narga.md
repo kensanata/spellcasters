@@ -17,14 +17,15 @@ the South Seas.
 
 ### Book of the Sea Hag
 
-**Charm person** (1) affects a single target, save vs. spells to
-resist. To break free, victims save again every day if their
-intelligence is 13 or better, every week if their intelligence is
-average, or every month if their intelligence is 8 or lower. While
-charmed, victims treat you as their best friend. Once victims break
-free, they remember everything they did and if they did anything they
-would not have ordinarily have done, they react with shame and anger.
-Charms usually cause severe emotional distress!
+**Siren song** (1) gives your voice power over people: a single target
+must save vs. spells or be charmed when you address them. To break
+free, victims save again every day if their intelligence is 13 or
+better, every week if their intelligence is average, or every month if
+their intelligence is 8 or lower. While charmed, victims treat you as
+their best friend. Once victims break free, they remember everything
+they did and if they did anything they would not have ordinarily have
+done, they react with shame and anger. Charms usually cause severe
+emotional distress!
 
 **Needles and puppets** (1) is the art of making and enchanting little
 puppets made of straw and twigs and bits of cloth and lock of hair.
@@ -41,13 +42,6 @@ independence and run away, trying to warn the owner of their hair.
 Usually, this means water, but it might also be lava or quicksand.
 This spell does not protect against the heat or noxious fumes.
 
-**Long dive** (2) allows five people to breathe underwater for 20min.
-
-**Speak with skulls** (2) allows you to reach through time and space
-into the afterlife and contact the souls that inhabited the skull you
-are holding. The conversation continues for as long as you keep
-talking. The soul is not necessarily friendly and cannot be charmed.
-
 **Beauty** (2) turns you into a beautiful and alluring young woman for
 a day and a night, an eye catcher, one that makes others stumble and
 gawk. Your smell is intoxicating, your voice is bliss, your hair so
@@ -55,6 +49,17 @@ beautiful people cry tears of joy when they see it. Anybody attracted
 to your sex must save vs. spells whenever they want to act against
 your wishes. If they make the save, they may move as they wish and say
 what they want, for an hour.
+
+**Long kiss** (2) allows you to kiss somebody and create a special
+bond between the two of you. Both of you know where the other one is:
+you can feel how many days or hours you would have to walk in which
+direction in order to meet them. You may cut this bond at any time. If
+you don't, it is permanent.
+
+**Speak with skulls** (2) allows you to reach through time and space
+into the afterlife and contact the souls that inhabited the skull you
+are holding. The conversation continues for as long as you keep
+talking. The soul is not necessarily friendly and cannot be charmed.
 
 **Invisible claws** (3) focuses your hate into invisible claws or
 blades which whizz through the air, cutting skin and flesh wherever
@@ -76,7 +81,7 @@ other. This is large enough to fill the streets of a town, conceal a
 harbour, hide a reef, or cover a valley. Within the fog, visibility is
 limited to a few feet.
 
-**Like Leaves** (4) allows you to enchant an area of 20ft. diameter
+**Like Leaves** (4) allows you to enchant an area of 20ft diameter
 with up to 20 people in it (you included, if you want) in order to
 make them as light as dry leaves, and conjure up a strong gust of wind
 which will blow all of them to any place you can see within one mile,
@@ -92,4 +97,8 @@ will take at least 1d6 damage if landing on solid ground, plus
 
 **...** (5)
 
-**...** (5)
+**Summon Kraken** (5) summons a giant kraken from the depth of the
+sea. HD 12 AC 4 8×2d6 F6 MV 9 ML 10 XP 1200; anybody hit must save
+vs. death or be flung through the air. On land, take an additional 2d6
+damage. On sea, fall into the water. When in the water wearing metal
+armour, save vs. death every round or drown.
