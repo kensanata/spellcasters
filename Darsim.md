@@ -3,7 +3,7 @@
 ![Darsim](Darsim.png)
 Darsim is a monk of Shira Mountains. Shira is the ice snake, the hunter at the end of the world, a cursed demon of the glaciers. The monks of Shira monastery believe in physical exercise and austere living conditions. If your spirit is weak, you die. If your constitution is weak, you also die. It's a hard life up here.
 
-Darsim's disciples challenge themselves in these cold mountains, and they travel the nine realms, looking for challenges. His stone tower on Shirt Mountain is full of acolytes looking to test themselves. There are at least 100 monks that know how to *jump* and use their quarterstaff with deadly accuracy. There are at least 20 elder brothers which know how to use both *fists of airs* and *one thousand fists* at the same time. The 4 guardians of the four wings will have mastered even more techniques, including *focus* and *ground strike*.
+Darsim's disciples challenge themselves in these cold mountains, and they travel the nine realms, looking for challenges. His stone tower on Shira Mountain is full of acolytes looking to test themselves. There are at least 100 monks that know how to *jump* and use their quarterstaff with deadly accuracy. There are at least 20 elder brothers which know how to use both *fists of airs* and *one thousand fists* at the same time. The 4 guardians of the four wings will have mastered even more techniques, including *focus* and *ground strike*.
 
 ### Treasure
 

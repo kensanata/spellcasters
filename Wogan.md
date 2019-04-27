@@ -87,7 +87,8 @@ brothers, one pack, one family. A place outside of time. This is where
 the big hounds hunt, this is were the immortals tread - the ones that
 simply never went back. They decided to remain here, where the
 glaciers are thick and strong and the tundra stretches forever. You
-can spend as many days and months and years here as you want. By
+can spend as many days and months and years here as you want. You age
+appropriately but still return to the present, if you return. By
 moving around in the Dreamtime, you also move your point of return.
 
 **To dust** (4) transforms you and all you designate within 10ft into

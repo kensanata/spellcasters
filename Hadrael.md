@@ -73,4 +73,18 @@ water.
 creature for 2h, such as a dragon. As a dragon, Hadrael's stats change
 to AC 0 1d8/1d8/3d10 MV 24 (flying).
 
+**Wait** (4) allows you and up to twenty companions to enter a special
+trance that removes your bodies from the time stream. Your minds still
+observe the spot where you entered the trance, but nothing can affect
+you unless you want to return into the world. No time passes for you,
+but you can spend centuries outside the time stream.
+
 **Hold monster** (5) paralyses any 1d4 creatures for an hour.
+
+**Time thief** (5) allows you to send your sense into the immediate
+future for a day and a night, giving you a chance to react
+appropriately, once per turn or once per fight: if anybody at the
+table announces an action or an event, you get two immediate, extra
+rounds to act in. If you are surprised, you lose one round, just like
+everybody else. The round you lose can be one of these extra two
+rounds, however.

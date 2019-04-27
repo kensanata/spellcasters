@@ -82,13 +82,13 @@ Anybody caught in the water when the partition collapses must save vs.
 death or die. If they cannot swim or if they are wearing metal armor,
 they must continue saving every round.
 
-**Frozen sleep** (4) allows you to freeze yourself or any target
+**Frozen slumber** (4) allows you to freeze yourself or any target
 within 100ft. Inside the ice, your metabolism slows to a crawl,
 enabling you to survive centuries, if you want -- or imprisoning your
 foes for centuries, if you want. You have a vague idea of your
 surroundings while inside the ice and can trigger a thaw when you feel
 the time is right. When you die, anybody else you are keeping in a
-frozen sleep will thaw.
+frozen slumber thaws.
 
 **Ice bridge** (5) grows a bridge of ice from a patch of snow or ice
 you're standing on. The bridge can span up to 100m and is wide enough
