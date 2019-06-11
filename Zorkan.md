@@ -17,7 +17,6 @@ to cold, fire, poison, sleep and charms).
 
 ### The book of Geomancy
 
-
 **Magic message** (1) enchants a stone such that under the conditions
 named it speaks a short message. The conditions named must be such
 that the caster knows right then and there whether they are fulfilled
@@ -33,15 +32,6 @@ save vs. spells for half.
 
 **Stone fist** (1) raises your strength to 18 for 10min: +3 to melee
 attacks, 1d6+3 damage, smash doors on a 1–5 in 6.
-
-**Speak with stones** (2) allows you to talk to rocks for 20min.
-Sadly, their perspective is limited by their rock nature. They may
-report things they heard or saw (if there was light), their memories
-go back a long time, but they can't tell individuals apart and their
-sense of time is confusing at best.
-
-**Throw a rock** (2) allows you to pick up a large rock and throw it
-like giants do: roll to-hit as you would, deal 3d6 on a hit, no save.
 
 **Golem craft** (2) animates clay. This requires a cheap gem set into
 the forehead of the little creature. A *clay* golem has HD 3 AC 6 1d10
@@ -62,19 +52,25 @@ carriage from the ground. Possible uses include blocking vehicles,
 creating a rampart, building a bridge, or rolling downhill. It is
 easily avoided by individuals under most circumstances.
 
-**Stone skin** (3) turns your body to some sort of weird stone
-material: impervious to cold, fire, poison, and your AC goes down to.
-Also, you can no longer swim and you still need to breathe, so good
-luck with that.
-
-**Rock throwing** (3) allows you to pick up large rocks and throw them
-for 20min like giants do: roll to-hit as you would, deal 3d6 on a hit,
-no save.
+**Speak with stones** (2) allows you to talk to rocks for 20min.
+Sadly, their perspective is limited by their rock nature. They may
+report things they heard or saw (if there was light), their memories
+go back a long time, but they can't tell individuals apart and their
+sense of time is confusing at best.
 
 **Rock swim** (3) allows you to dive into the rock like a fish and
 "swim" for 10min and to glide through the earth up to 1000ft. If the
 spell ends while you're still gliding through the earth, you suffocate
 and remain stuck forever.
+
+**Rock throwing** (3) allows you to pick up large rocks and throw them
+for 20min like giants do: roll to-hit as you would, deal 3d6 on a hit,
+no save.
+
+**Stone skin** (3) turns your body to some sort of weird stone
+material: impervious to cold, fire, poison, and your AC goes down to.
+Also, you can no longer swim and you still need to breathe, so good
+luck with that.
 
 **Earth ship** (4) summons forth ship of stone that can glide through
 the earth while the sun is up. Only you can make it move. Without you,

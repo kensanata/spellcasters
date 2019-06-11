@@ -66,7 +66,7 @@ blades which whizz through the air, cutting skin and flesh wherever
 they can. Roll an attack on anybody within 60ft for every level of
 yours and deal 3d6 if you hit. No save.
 
-**Curse of Drowning** (3) allows you to pick a living and breathing
+**Curse of drowning** (3) allows you to pick a living and breathing
 creature and curse them to near drowning for an hour. They lungs fill
 with water, they cant speak, they can't cast spells, and they must
 save vs. death every time they attempt strenuous activity (such as
@@ -74,14 +74,14 @@ attacking). If they fail, all they can do is gag up the water. If they
 fail twice in a row (easily avoided by simple not doing anything
 everytime you fail), you faint for 1d6 rounds.
 
-**Sea of Fog** (3) calls forth the fog spirits from a small lake or a
+**Sea of fog** (3) calls forth the fog spirits from a small lake or a
 larger body of water. Within an hour, the fog can cover an area so
 large it would take somebody half an hour to cross from one end to the
 other. This is large enough to fill the streets of a town, conceal a
 harbour, hide a reef, or cover a valley. Within the fog, visibility is
 limited to a few feet.
 
-**Like Leaves** (4) allows you to enchant an area of 20ft diameter
+**Like leaves** (4) allows you to enchant an area of 20ft diameter
 with up to 20 people in it (you included, if you want) in order to
 make them as light as dry leaves, and conjure up a strong gust of wind
 which will blow all of them to any place you can see within one mile,
