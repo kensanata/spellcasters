@@ -91,13 +91,23 @@ will take at least 1d6 damage if landing on solid ground, plus
 1d6/10ft. falling damage for up to 10d6 if applicable (for a total of
 11d6 maximum) and half damage when landing in water.
 
-**...** (4)
+**River travel** (4) enchants a ship to travel up or down a river for
+up to 20mi, in but a moment, like a ghost, unseen but felt as a
+passing cold dread by people near the river.
 
-**...** (4)
+**Sorcerous fumes** (4) calls forth boiling fumes from the and sends
+them rolling in any direction you want at 10ft per round. Anybody
+caught in these fumes must save every round vs.~spells or fall
+unconscious as their mind is taken into sweet dream lands. If
+unconscious in water, drowns immediately.
 
-**...** (5)
+**Hidden lands** (5) hides an island or some other area as large as a
+few miles across from the prying eyes of other people for a year and a
+day. Only you and the ones you designate can consciously pass through
+the veil. If you're unconscious, you may pass, thus survivors of a
+shipwreck might end on your island, for example.
 
-**Summon Kraken** (5) summons a giant kraken from the depth of the
+**Summon kraken** (5) summons a giant kraken from the depth of the
 sea. HD 12 AC 4 8×2d6 F6 MV 9 ML 10 XP 1200; anybody hit must save
 vs. death or be flung through the air. On land, take an additional 2d6
 damage. On sea, fall into the water. When in the water wearing metal
