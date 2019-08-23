@@ -37,11 +37,11 @@ attacks, 1d6+3 damage, smash doors on a 1–5 in 6.
 the forehead of the little creature. A *clay* golem has HD 3 AC 6 1d10
 MV 12. When you reach level 9, you can create a *stone* golem with HD
 9 AC 1 3d6 MV 12. Such a creature needs no rest, no food, no water and
-no friends. It does not sicken nor will it ever die unless destroyed
+no friends. It does not sicken nor does it ever die unless destroyed
 by violence. It is not affected by cold, fire, poison, sleep or
 charms. Golems do not speak and are a bit dim. They don't use
 interesting tactics, they can't cast spells and they don't use ranged
-weapons, but they will defend their creator at all costs, taking any
+weapons, but they defend their creator at all costs, taking any
 blows aimed at them, if possible. Sadly, while most are loyal servants
 they still take a retainer slot. If their creator has more retainers
 than allowed by their charisma, the golems may malfunction and gain
@@ -105,7 +105,7 @@ spot, you can create or destroy inanimate matter as you wish. This
 takes 10min.
 
 **Stone growth** (5) calls forth the Bones of the Earth and bends them
-to your will. Long columns of stone will rise from the ground all
+to your will. Long columns of stone rise from the ground all
 around you and bend and twist as you like. If you use these to fight,
 you now have two melee attacks dealing 3d10 each and a reach of 60ft.
 After 10min these columns solidify and turn into a fantastic stone

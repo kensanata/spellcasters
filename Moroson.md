@@ -8,12 +8,12 @@ dragon could still fly to the tower and land at the top. Down below,
 people travel single file.
 
 Here, in this remote location, Moroson trains *travelling judges*.
-These will travel the land with a retinue of twelve guards and settle
-disputes and carry out judgements. They will act as both judge and
-executioner, but they will only act when an accuser invokes their help
-with the phrase "Traveller, I need an impartial judge. I will submit
-to your judgement if you will investigate this crime." These judges do
-not like false accusations.
+These travel the land with a retinue of twelve guards and settle
+disputes and carry out judgements. They act as both judge and
+executioner, but they only act when an accuser invokes their help with
+the phrase "Traveller, I need an impartial judge. I submit to your
+judgement if you will investigate this crime." These judges do not
+like false accusations.
 
 Interestingly, these judges don't use any actual spells to resolve
 their cases. They say that this would prevent others from verifying
@@ -32,7 +32,7 @@ ranged attacks. This magic armour weighs nothing and allows you to
 swim. The spell lasts for 2h.
 
 **Voice of the ruler** (1) convinces a person that that hears you that
-you are to be obeyed unless they save vs. spells. This servitude
+you are to be obeyed unless they save vs. spells. This servitude
 continues as long as you want. Victims are granted a new save every
 week and whenever they are forced to do anything that they really hate
 to do.
@@ -50,8 +50,8 @@ within 60ft. The spell lasts for 20min.
 
 **Ligning bolt** (3) is a javelin of lightning dealing 1d6 per caster
 level (minimum 5d6) to a target within 180ft and anybody standing
-between you and the target. Targets may save vs. spells for half.
-Wooden structures like shields, doors or siege engines hit will be
+between you and the target. Targets may save vs. spells for half.
+Wooden structures like shields, doors or siege engines hit are
 destroyed.
 
 **Wings of god** (3) allows a target to fly for 2h. Their movement

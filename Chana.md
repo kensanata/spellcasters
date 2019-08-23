@@ -21,7 +21,7 @@ only make incoherent sounds.
 
 ### The Book of the Water Dragon
 
-**Charm person** (1) affects a single target, save vs. spells to
+**Charm person** (1) affects a single target, save vs. spells to
 resist. To break free, victims save again every day if their
 intelligence is 13 or better, every week if their intelligence is
 average, or every month if their intelligence is 8 or lower. While
@@ -70,31 +70,31 @@ by siege weapons, all are deflected.
 **Lightning Bolt** (3) strikes any visible foe within 200ft and
 everybody standing between you and them, unless they're very small or
 lying on the ground. Anything within two feet of the bolt is affected
-and takes 1d6 damage per caster level (5d6 minimum), save vs. spells
+and takes 1d6 damage per caster level (5d6 minimum), save vs. spells
 for half damage.
 
 **Drowning** (4) fills a targets lungs within 60ft with water and
-kills them unless they save vs. spells. This spell has no effect on
+kills them unless they save vs. spells. This spell has no effect on
 creatures that don't breathe air.
 
 **Flash flood** (4) creates a sudden flood from a body of water within
-150 ft. Anybody caught by it must save vs. death or be swept away. If
-wearing metal armor, save vs. death again or drown within a minute or
+150 ft. Anybody caught by it must save vs. death or be swept away. If
+wearing metal armour, save vs. death again or drown within a minute or
 two.
 
 **Dragon tongue** (4) grants you the ability to speak using the power
 of the first born. Any living creature thus addressed and able to hear
-must save vs. spells or obey your next ten commands for a minute. This
+must save vs. spells or obey your next ten commands for a minute. This
 includes suicidal actions. This mind fork causes severe emotional
 distress!
 
 **Raise dead** (5) allows you visit the afterlife and find a person
 that died within the last ten days and bring them back into their old
 body. Their body must not have any fatal wounds because this spell
-will not regenerate missing parts.
+does not regenerate missing parts.
 
 **Summon living storm** (5) conjures an elemental, usually the air
-elemental called Angry Whip: HD 16 AC -2 3d8 F16 MV 36; plus 1d8 vs.
-flying creatures; requires a save vs. death to approach; immune to
+elemental called Angry Whip: HD 16 AC -2 3d8 F16 MV 36; plus 1d8
+vs. flying creatures; requires a save vs. death to approach; immune to
 non-magical weapons; attacks summoner and remains on this plane if the
 conjurer's concentration fails.

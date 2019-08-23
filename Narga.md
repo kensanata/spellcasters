@@ -69,7 +69,7 @@ yours and deal 3d6 if you hit. No save.
 **Curse of drowning** (3) allows you to pick a living and breathing
 creature and curse them to near drowning for an hour. They lungs fill
 with water, they cant speak, they can't cast spells, and they must
-save vs. death every time they attempt strenuous activity (such as
+save vs. death every time they attempt strenuous activity (such as
 attacking). If they fail, all they can do is gag up the water. If they
 fail twice in a row (easily avoided by simple not doing anything
 everytime you fail), you faint for 1d6 rounds.
@@ -84,10 +84,10 @@ limited to a few feet.
 **Like leaves** (4) allows you to enchant an area of 20ft diameter
 with up to 20 people in it (you included, if you want) in order to
 make them as light as dry leaves, and conjure up a strong gust of wind
-which will blow all of them to any place you can see within one mile,
-allowing them land safely. Anybody trying to resist must save vs.
-spells in order to stay. Should they fail, they cannot land safely and
-will take at least 1d6 damage if landing on solid ground, plus
+which blows all of them to any place you can see within one mile,
+allowing them land safely. Anybody trying to resist must save
+vs. spells in order to stay. Should they fail, they cannot land safely
+and take at least 1d6 damage if landing on solid ground, plus
 1d6/10ft. falling damage for up to 10d6 if applicable (for a total of
 11d6 maximum) and half damage when landing in water.
 

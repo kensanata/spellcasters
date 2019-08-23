@@ -73,8 +73,8 @@ through it.
 **Lightning Bolt** (3) strikes any visible foe within 200ft and
 everybody standing between you and them, unless they're very small or
 lying on the ground. Anything within two feet of the bolt will be
-affected and take 1d6 damage per caster level (5d6 minimum), save vs.
-spells for half damage.
+affected and take 1d6 damage per caster level (5d6 minimum), save
+vs. spells for half damage.
 
 **Water breathing** (3) allows one target to breathe underwater for
 one day. While breathing underwater, you can speak the languages of
@@ -92,7 +92,7 @@ within a day the structure collapses.
 
 **Flash flood** (4) creates a sudden flood from a body of water within
 150 ft. Anybody caught by it must save vs. death or be swept away. If
-wearing metal armor, save vs. death again or drown within a minute or
+wearing metal armour, save vs. death again or drown within a minute or
 two.
 
 **Shape change** (4) allows you to change your shape. You get all the

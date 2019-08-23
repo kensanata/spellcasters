@@ -16,7 +16,7 @@ handlers, and many magic traps.
 single person you have eye contact with. Others do not fall for this
 lie and can try to dissuade the victim from acting upon their belief
 but this doesn't change the fact that they continue believing the lie.
-Every morning, the victim must save vs. spells or continue believing
+Every morning, the victim must save vs. spells or continue believing
 the lie for another day. No save when being told the lie in the first
 place!
 
@@ -28,23 +28,23 @@ were gazing into their soul, which in a way you are.
 for the next twenty minutes unless they are defending themselves. Even
 when attacked, the hold of the spell is not broken. As soon as the
 attackers put their weapons away, victims of this spell stop fighting
-at the end of the round. Victims are only granted a saving throw vs.
-spells if they are the same level as you or higher.
+at the end of the round. Victims are only granted a saving throw
+vs. spells if they are the same level as you or higher.
 
 **Mind reading** (2) allows you to read one other person's mind as
 soon as they look into your eyes. This lasts for 20min. Lies are
-impossible. A victim may save vs. spells to realize what is going and
+impossible. A victim may save vs. spells to realize what is going and
 and to hide their thoughts. Nobody can hide the fact that they are
 hiding their thoughts from you, however.
 
 **Entrapment** (2) creates a 10ft diameter trapped zone which wakes
 and alerts anybody nearby with a loud whistle if anybody steps into
-it. Victims must save vs. spells in order to move out of the zone.
+it. Victims must save vs. spells in order to move out of the zone.
 Flying over the entrapment avoids the trap. The entrapment lasts for
 24h but the caster may end the spell at any time.
 
 **Mind blast** (2) turns a silent "boo!" into an overwhelming panic
-attack. 1d4 victims must save vs. spells or be knocked out for 10min.
+attack. 1d4 victims must save vs. spells or be knocked out for 10min.
 Those who make the save are still stunned for a round.
 
 **Speak** (3) allows you to speak to any intelligent creature and
@@ -55,7 +55,7 @@ with a name is assumed to be intelligent enough to speak.
 anybody intelligent that hears you speak. Without needing to
 understand a word, people within 60ft drop to their knees, close their
 eyes, drop their weapons, pray for deliverance or start crying. Every
-round, victims must save vs. spells in order to recover their wits.
+round, victims must save vs. spells in order to recover their wits.
 While in this state of utter exhaustion, victims defend themselves but
 don't attack. If you are note brazen about it, you may pass amidst the
 victims without alerting them to your presence. Your allies had better
@@ -73,7 +73,7 @@ upon, the arrival of a divine agent like a valkyrie.
 **Misdirection** (4) creates a magical maze protecting an area 100ft
 in diameter from discovery. This area is big enough for a nice camp
 site or a small house. Anybody entering the area from the outside
-without help from somebody inside must save vs. spells or pass through
+without help from somebody inside must save vs. spells or pass through
 the area without discovering the protected area. They simply see
 whatever they expect to see around here: more trees, dark alleys,
 corridors and rooms, whatever is appropriate and soon forgotten.

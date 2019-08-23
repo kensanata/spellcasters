@@ -44,7 +44,7 @@ are not.
 
 **Silence** (2) prevents any sound from originating within 15ft of the
 target (usually a stone, up to 180ft away). Targets may attempt a save
-vs. spells to avoid the effect. This would prevent them from moving
+vs. spells to avoid the effect. This would prevent them from moving
 out of range. Nobody can speak or cast spells within 15ft of the
 target. As outside noise still enters the bubble of silence, victims
 may not immediately notice that they have been silenced.
@@ -64,9 +64,9 @@ be required to traverse this undergrowth. The spell can also be used
 to magically enhance larger trees, turning them into majestic towers,
 able to carry the weight of a large and beautiful tree house, or it
 can be used to grow trees into magical wooden river barges, or similar
-wooden structures. When dispelled, the material looses its magical
-hardiness but doesn't immediately turn to dust. The thorns loose their
-sting, the wood looses its fire resistance, its imperviousness to salt
+wooden structures. When dispelled, the material loses its magical
+hardiness but doesn't immediately turn to dust. The thorns lose their
+sting, the wood loses its fire resistance, its imperviousness to salt
 water.
 
 **Shape change** (4) allows the transformation into a different

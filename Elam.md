@@ -34,7 +34,7 @@ little place. If you cast the spell again, you can get to the things
 you placed there. They say that there is a way to get at other
 people's pockets but the spell to connect two pockets is lost.
 
-**Charm person** (1) affects a single target, save vs. spells to
+**Charm person** (1) affects a single target, save vs. spells to
 resist. To break free, victims save again every day if their
 intelligence is 13 or better, every week if their intelligence is
 average, or every month if their intelligence is 8 or lower. While
@@ -61,7 +61,7 @@ such that they can visit their heart's desire in the afterlife – a
 deceased loved one, for example. Their soul spends two hours in this
 realm, be it Asgard or Hel while their body is caught in a magical
 slumber from which nothing can wake them. Unwilling targets get a save
-vs. spells before succumbing.
+vs. spells before succumbing.
 
 **Passage** (3) enchants a closed door such that opening it creates a
 portal² to another, known door in the same realm. The portal remains
@@ -74,11 +74,10 @@ like a dying man on his hands and knees, or you may rise up into the
 air like smoke to be blown wherever the winds will blow.
 
 **Teleportation trap** (3) creates subtle changes in the configuration
-of space such that a group of people nearby will be teleported
-elsewhere within 200ft without them noticing it. If the group of
-people stretches for more than 60ft (a line of twenty people), then
-the trap will not trigger. The trapped area radiates faint and
-harmless magic.
+of space such that a group of people nearby is teleported elsewhere
+within 200ft without them noticing it. If the group of people
+stretches for more than 60ft (a line of twenty people), then the trap
+does not trigger. The trapped area radiates faint and harmless magic.
 
 **Mirror passage** (4) enchants a mirror such that it leads to the
 lands of the Red King, a realm built on top of a huge, ruined city and
@@ -89,25 +88,25 @@ to your realm of origin.
 realms and forces a native into your present realm. Such a native
 could be a troll, valkyrie, doppelgänger, elven noble, demon, naga or
 similar (usually around HD 6). Anybody casting this spell gets their
-own little ally. They will stay for an hour before fading away. If
-they are killed, the spell will have no effect for a week and then it
-will have latched onto a new ally.
+own little ally. They stay for an hour before fading away. If they are
+killed, the spell has no effect for a week and then it will have
+latched onto a new ally.
 
 **Fortification** (4) protects a location such as a castle from arcane
 intruders for a day by creating magical fortifications and barriers
-which will prevent any magical or summoned creatures from coming
-closer than 100ft and it prevents any magical effects from crossing
-the boundary: you can cast spells inside the fortification but you can
+which prevent any magical or summoned creatures from coming closer
+than 100ft and it prevents any magical effects from crossing the
+boundary: you can cast spells inside the fortification but you can
 throw a fireball from the outside at anything inside the
 fortification. The barriers do not dispell magic: a charmed person
 could still walk past the barrier carrying a magic sword.
 
 **Portal** (5) enchants a closed door such that opening it creates a
 portal² to any unused door anywhere in the nine realms. You can
-specify a building or a person and the portal will be created to the
-nearest unused door. These doors are usually in deep cellars, attics,
-ruins, dungeons, sewers and the like. The portal is permanent until
-dispelled.
+specify a building or a person and the portal created will connect to
+the nearest unused door. These doors are usually in deep cellars,
+attics, ruins, dungeons, sewers and the like. The portal is permanent
+until dispelled.
 
 **Realm** (5) enchants a closed door such that opening it leads to a
 little pocket realm, enough space for a building, a little land, some
