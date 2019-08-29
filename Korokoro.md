@@ -120,7 +120,9 @@ later memories only transfer very vaguely to the clone.
 
 **Warp Gate** (5) opens a gate into the space between the realms and
 the madness of the void coagulates into demons of the most terrible
-kind. You can keep the gate open for as long as you want. Every ten
-minutes, another demon steps through. These demons want to destroy and
-kill, and as long as you can offer that, they'll follow your command.
-When you stop, however, the demons don't disappear.
+kind (HD 8+1 AC 5 1d4/1d4/1d6/1d6/1d8 F16 MV 18 ML 11; flying; only
+harmed by magic or magic weapons). You can keep the gate open for as
+long as you want. Every ten minutes, another demon steps through.
+These demons want to destroy and kill, and as long as you can offer
+that, they'll follow your command. When you stop, however, the demons
+don't disappear.
