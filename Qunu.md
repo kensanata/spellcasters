@@ -31,7 +31,13 @@ Charms usually cause severe emotional distress!
 
 **...** (1)
 
-**...** (1)
+**Mind rot** (1) confuses a target within 60ft for half an hour. They
+don't remember what they are doing here, they don't remember their
+name, their friends, their enemies, their spells, the books they've
+read, and so on. Their soul is still here, so their *feelings* are
+unaffected. Sadly, it's hard to act coherently if all you know is how
+you feel about people and situations. When the spell ends, the victims
+don't recall much, not even the moment they lost their mind.
 
 **...** (2)
 
@@ -43,7 +49,7 @@ Charms usually cause severe emotional distress!
 person wearing plate armour) for 2h. When the spell ends and you are
 still flying, you fall and take the usual 1d6 per 10ft falling damage
 
-**Puppet Master** (3) allows you to create a puppet of another person,
+**Puppet master** (3) allows you to create a puppet of another person,
 if and only if you have a bit of their hair. This puppet is linked to
 the owner of the hair. Attach some strings to the puppet and you can
 control the movements of the other person. You cannot make them drop
