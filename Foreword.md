@@ -32,8 +32,14 @@ learning.
 
 As for the general classification, this is my rule of thumb: if a
 spell has a quantifiable effect in the 1d6 range, it's a spell of the
-first circle. If said effect is in the 1d6 per caster level range,
-it's a spell of the third circle. Everything else follows from there.
+first circle. Invisibility is a spell of the second level. Dealing
+damage in the 1d6 per caster level range is a spell of the third
+circle. Save or die is a spell of the fourth circle. Shape-changing is
+also of the fourth circle; limits to shape-changing (a single shape
+only, or only flying) is of the third circle. Teleportation is a spell
+of the fourth circle; moving a large number of people around or
+creating pocket dimensions and the like is a spell of the fifth
+circle.
 
 ## License
 
