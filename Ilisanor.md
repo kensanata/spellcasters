@@ -50,7 +50,12 @@ burn very quickly: to free a passage filled with these webs takes
 they free themselves. Anybody caught in a web with an open fire such
 as a torch automatically sets it on fire.
 
-**...** (3)
+**Observation** (3) gives you the power to observe what somebody is
+doing, no matter where they are, if and only if you can eat a little
+bit of their hair. The target must save vs. spell in order to notice
+the strange presence in their mind. If they do, they may defend
+themselves with mind-affecting spells such as *charms*, *mind blast*,
+*mind reading*, *mind rot*, or *warp mind*.
 
 **...** (4)
 
@@ -58,7 +63,11 @@ as a torch automatically sets it on fire.
 living target up to 60ft away and cut it. The target must save
 vs. death or die.
 
-**...** (4)
+**Follow the thread** (4) allows you to create a silver thread that
+leads you and up to three others to a destination you have been to.
+The thread leads through wrinkles in the barrier between the realms
+and thus effectively allows you to reach any destination with no more
+than a dozen steps.
 
 **...** (5)
 
