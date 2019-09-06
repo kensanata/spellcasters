@@ -18,31 +18,31 @@ The *amulet of treading softly* turns its wearer invisible to the undead as long
 
 ### The Book of the Dead
 
-**Aura of Fear** (1) affects one victim within 30ft; they must save vs. spells or flee for as many rounds as you have levels.
+**Aura of fear** (1) affects one victim within 30ft; they must save vs. spells or flee for as many rounds as you have levels.
 
-**Locate Corpse** (1) allows you detect any dead or undead within 120ft. You can try and be more specific, focus on particular attributes of the corpse or even looking for a certain individual if you are in possession of a personal item or a part of their body.
+**Locate corpse** (1) allows you detect any dead or undead within 120ft. You can try and be more specific, focus on particular attributes of the corpse or even looking for a certain individual if you are in possession of a personal item or a part of their body.
 
 **Read Magic** (1) allows you to read and use scrolls.
 
 **Paralysis** (2) affects one person within 30ft; they must save vs. spells or be unable to move for 1h as they experience death, burial or the pyre, worms gnawing at their bones, flames eating their face and the crushing weight of the earth. Paralyzed victims drop everything they are holding and collapse.
 
-**Summon Ghoul** (2) summons¹ a diminished lord of the earth, a ghoul; when you cast it for the first time, a special bond is created between you and particular ghoul. Future castings of the spell keep summoning the same ghoul. There can only ever be one such ghoul.  It follows your commands but would love nothing more than to eat you alive. Through unspeakable acts anybody it seduces and kills rises as a free ghoul within 24h. HD 2 AC 6 1d4/1d4/1d4 + *paralysis* F2 MV 9 ML 9; *aura of fear* and *limited shape shift* at will.
+**Summon ghoul** (2) summons¹ a diminished lord of the earth, a ghoul; when you cast it for the first time, a special bond is created between you and particular ghoul. Future castings of the spell keep summoning the same ghoul. There can only ever be one such ghoul.  It follows your commands but would love nothing more than to eat you alive. Through unspeakable acts anybody it seduces and kills rises as a free ghoul within 24h. HD 2 AC 6 1d4/1d4/1d4 + *paralysis* F2 MV 9 ML 9; *aura of fear* and *limited shape shift* at will.
 
-**Converse With Corpse** (2) allows you to contact the spirit of the dead and talk to them for half an hour if you are in possession of their skull. The more years have passed since their passing, the harder it is to understand them.
+**Converse with corpse** (2) allows you to contact the spirit of the dead and talk to them for half an hour if you are in possession of their skull. The more years have passed since their passing, the harder it is to understand them.
 
 **Limited Shape Shift** (3) changes you into the animal you feel most connected to (and no other). The effect ends when you will it to end or when you die. Agrimach likes to move around as a wolf.
 
-**Animate Dead** (3) animates the dead and turns them into zombies. You can control up to two times your level in a given round but you are free to animate more. Better keep them in a vault if you do, however. Freed, they'll roam the earth and spread like a plague because anybody slain by a zombie rises as a zombie within 24h. HD 2 AC 8 1d8 F1 MV 12 ML 12.
+**Animate dead** (3) animates the dead and turns them into zombies. You can control up to two times your level in a given round but you are free to animate more. Better keep them in a vault if you do, however. Freed, they'll roam the earth and spread like a plague because anybody slain by a zombie rises as a zombie within 24h. HD 2 AC 8 1d8 F1 MV 12 ML 12.
 
-**Immunity to Fire** (3) is a magic shield against all fire that lasts 1h. *Fireballs* explode without harming you. You can walk through the fires of hell without getting hurt. The shield has a diameter of 20ft, and may provide protection for an additional six people, even though you’ll have to move slowly.
+**Immunity to fire** (3) is a magic shield against all fire that lasts 1h. *Fireballs* explode without harming you. You can walk through the fires of hell without getting hurt. The shield has a diameter of 20ft, and may provide protection for an additional six people, even though you’ll have to move slowly.
 
 **Poison** (4) instantly kills a victim touched unless it saves vs. poison. This spell can be reverted to *neutralize* a poison, bringing back anybody who died of a poison within the last minute and making them immune to poison for the next hour, allowing them to survive an oncoming *cloudkill*, for example.
 
 **Grafting** (4) enables you to sew together body pieces, such as attaching the leg of corpse to a person that has lost their leg. If you add more limbs than the target had when it was born, you have to add extra brains to control the extra limbs. In stressful situations (whenever you need to make a save) there is a chance that the extra brain acts on its own. The chance depends on the number of original limbs and extras: a human with an extra arm has a 1 in 5 chance of the extra arm acting on its own for a round, following a stressful situation.
 
-**Death Ray** (4) is a ray of green energy that kills its victim instantly unless they save vs. death. Range 120ft.
+**Death ray** (4) is a ray of green energy that kills its victim instantly unless they save vs. death. Range 120ft.
 
-**Raise Dead** (5) brings a corpse back to life if they have died within the last seven days. It must not suffer from fatal conditions or it simply dies again (decapitated, broken spine, that kind of thing). You need to touch the corpse and it takes about 10min to animate. This usually involves the appearance of an *angel of death* dragging the kicking and screaming soul back into the living world.
+**Raise dead** (5) brings a corpse back to life if they have died within the last seven days. It must not suffer from fatal conditions or it simply dies again (decapitated, broken spine, that kind of thing). You need to touch the corpse and it takes about 10min to animate. This usually involves the appearance of an *angel of death* dragging the kicking and screaming soul back into the living world.
 
 **Cloudkill** (5) calls forth a deathly cloud of yellow-green gas that spreads slowly for 1h with 20ft/rd, creeping along the ground, seeping into openings, killing any creature with less than 4 HD; creatures with more HD must make a save vs. poison or die. Even if they make the save, they take 1 damage/rd. Thus, remaining inside the cloud kills almost anybody. As it spreads for over a mile in all directions, it creates a true dead zone. Creatures immune to poison are not affected.
 
