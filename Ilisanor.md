@@ -23,12 +23,12 @@ against falls when jumping.
 **Spider hands** (2) allows you to locate the smallest vibrations
 within 100ft using your fingertips. Anytime you touch the ground or a
 wall in the next half hour, you can pinpoint living creatures within
-range.
+range – as long as they also touch the ground or a wall!
 
 **Spider vision** (2) grows six extra eyes all around a head you
 touch. For a day, they can see in all directions, and they can see all
-sorts of additional fire like *jale* and *ulfire*. With these extra
-sleepless eyes, they can no longer be surprised.
+sorts of additional colours like *jale* and *ulfire*. With these extra
+sleepless eyes, the target can no longer be surprised.
 
 **Liquefy** (2) makes your jaw grow large, with acid glands, and if
 you manage to bite somebody in that very moment, they must save
@@ -57,18 +57,38 @@ the strange presence in their mind. If they do, they may defend
 themselves with mind-affecting spells such as *charms*, *mind blast*,
 *mind reading*, *mind rot*, or *warp mind*.
 
-**...** (4)
-
 **Cut the thread of fate** (4) allows you see the life thread of a
 living target up to 60ft away and cut it. The target must save
 vs. death or die.
 
 **Follow the thread** (4) allows you to create a silver thread that
-leads you and up to three others to a destination you have been to.
-The thread leads through wrinkles in the barrier between the realms
-and thus effectively allows you to reach any destination with no more
-than a dozen steps.
+leads you and up to three others to a destination you have been to
+before. The thread leads through wrinkles in the barrier between the
+realms and thus effectively allows you to reach any destination in any
+of the known realms with no more than a dozen steps.
+
+**Network** (4) allows you to tap into the network of living spiders
+all around you. Any spider within two or three miles in any direction
+can be contacted by you by simply projecting your mind, sending back
+the things they can hear and see. You can understand the words spoken
+and read written messages even if the spider whose sense you are using
+cannot. It is hard to project your mind into the void, looking for
+things you don't know. You must know the location or person or object
+you're interested in, for this spell to work.
 
 **...** (5)
 
-**...** (5)
+**Transmigration** (5) allows you to leave your body and transfer your
+soul into arthropods of any kind: insects, spiders, crabs, no matter
+how big or small. You can spread your consciousness into many of these
+creatures and reassemble as large as your original body but made up of
+this vermin. In this form, you can deal 1d6 damage every round to a
+living creature and replenish any killed members from the environment
+as thousands of vermin stream towards you. The only thing that can
+effectively kill you is an area effect such as fire, water, ice,
+poison gas or lightning. You can hollow out a dead body about the size
+of your original body and take it over for a day. Beyond that, it gets
+difficult to hide the discolorations, the bad smell and the writhing
+vermin beneath the dead skin. Your original body will die within a day
+unless it's cared for by somebody. Then again, if it dies, who cares.
+You're practically immortal, now.
