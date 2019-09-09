@@ -1,8 +1,19 @@
 ## Iauniel
 
 ![Iauniel](Iauniel.png)
-To be done.
+When the world was young, it is said that the shadows were ruled by
+spiders as large as castles. Their presence swallowed the light and
+wove darkness into threads imbued with Earth Blood, binding all the
+living things to them. It was then that elves and magic users learned
+the spells of weaving from those ancient monstrosities.
 
+Iauniel is one of the old masters of arachnomancy. They live in the
+town of Fallsburg, in gardens full of the most beautiful birds, the
+happiest little caves, cute waterfalls, magnificent ferns and
+wonderful flowers. People decide to stay, people pick up strange
+habits, people build insane things, and nobody knows that they are
+following the threads of fate spun by Iauniel living in their midst,
+unseen.
 
 ### The Book of Weaving
 
@@ -20,20 +31,33 @@ centaur for 10min. With your legs, you can climb along any solid
 surface or rope. With your spider silk gland, you can secure yourself
 against falls when jumping.
 
-**Spider hands** (2) allows you to locate the smallest vibrations
-within 100ft using your fingertips. Anytime you touch the ground or a
-wall in the next half hour, you can pinpoint living creatures within
-range – as long as they also touch the ground or a wall!
-
-**Spider vision** (2) grows six extra eyes all around a head you
-touch. For a day, they can see in all directions, and they can see all
-sorts of additional colours like *jale* and *ulfire*. With these extra
-sleepless eyes, the target can no longer be surprised.
+**Glamour** (2) allows you to turn into a beautiful human, with the
+most enchanting voice and amazing grace. Others spending more than an
+hour in your company may save vs. spells to notice a disconcerting
+flickering of the glamour momentarily revealing an alternate reality
+of multiple eyes or extra spider legs growing out of your back.
 
 **Liquefy** (2) makes your jaw grow large, with acid glands, and if
 you manage to bite somebody in that very moment, they must save
 vs. poison or suffer 4d6 acid damage. If they're already dead, you can
 liquefy a human-sized corpse (and drink the goo, if you feel like it).
+
+**Spider senses** (2) allows you to enchant a target such that they
+are able to locate the smallest vibrations within 100ft using their
+fingertips. Anytime they touch the ground or a wall, they can pinpoint
+living creatures in range – as long as these also touch the ground or
+a wall! In addition to that, their heads grows six extra eyes. This
+allows them to see in all directions, and to see additional colours
+like *jale* and *ulfire*, and while they have these extra sleepless
+eyes you can no longer be surprised. The spell ends and the eyes
+disappear back into their surrounding flesh after half an hour.
+
+**Observation** (3) gives you the power to observe what somebody is
+doing, no matter where they are, if and only if you can eat a little
+bit of their hair. The target must save vs. spell in order to notice
+the strange presence in their mind. If they do, they may defend
+themselves with mind-affecting spells such as *charms*, *mind blast*,
+*mind reading*, *mind rot*, or *warp mind*.
 
 **Phase walk** (3) allows you to see the maze of crisscrossing lines
 connecting the realms and with one step, you can cross over to any of
@@ -49,13 +73,6 @@ burn very quickly: to free a passage filled with these webs takes
 10min per 10ft. Anybody caught in a burning web takes 2d8 damage as
 they free themselves. Anybody caught in a web with an open fire such
 as a torch automatically sets it on fire.
-
-**Observation** (3) gives you the power to observe what somebody is
-doing, no matter where they are, if and only if you can eat a little
-bit of their hair. The target must save vs. spell in order to notice
-the strange presence in their mind. If they do, they may defend
-themselves with mind-affecting spells such as *charms*, *mind blast*,
-*mind reading*, *mind rot*, or *warp mind*.
 
 **Cut the thread of fate** (4) allows you see the life thread of a
 living target up to 60ft away and cut it. The target must save
