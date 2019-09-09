@@ -76,7 +76,15 @@ cannot. It is hard to project your mind into the void, looking for
 things you don't know. You must know the location or person or object
 you're interested in, for this spell to work.
 
-**...** (5)
+**Threads of fate** (5) allows you to spin invisible threads of chance
+and fate to entrap a particular person. You can cover a 100ft cube in
+a day. When the person enters the area, they end up doing the things
+you suggested with your threads, if at all possible. Random events
+trigger reactions that lead to consequences that you have laid out
+when weaving the threads. The spell can be cast multiple times in
+order to affect more people. The threads linger for as long as the
+surrounding walls keep standing. The world is full of these threads,
+waiting for victims that have passed a way ages ago.
 
 **Transmigration** (5) allows you to leave your body and transfer your
 soul into arthropods of any kind: insects, spiders, crabs, no matter
