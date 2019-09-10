@@ -42,7 +42,10 @@ a short answer without speaking any words. The recipient has to be
 within a mile. The message does not involve any mind reading so you
 still need to share a common language, and replying is optional.
 
-**...** (2)
+**Beautiful** (2) makes you the most beautiful being in the world for
+all around you. For the next half hour, nobody within 30ft. may harm
+you or resist your kiss unless they save vs. spells. The spell ends if
+you kiss somebody.
 
 **...** (2)
 
