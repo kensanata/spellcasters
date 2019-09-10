@@ -29,8 +29,6 @@ free, they remember everything they did and if they did anything they
 would not have ordinarily have done, they react with shame and anger.
 Charms usually cause severe emotional distress!
 
-**...** (1)
-
 **Mind rot** (1) confuses a target within 60ft for half an hour. They
 don't remember what they are doing here, they don't remember their
 name, their friends, their enemies, their spells, the books they've
@@ -38,6 +36,11 @@ read, and so on. Their soul is still here, so their *feelings* are
 unaffected. Sadly, it's hard to act coherently if all you know is how
 you feel about people and situations. When the spell ends, the victims
 don't recall much, not even the moment they lost their mind.
+
+**Silent message** (1) allows you to send a short message and receive
+a short answer without speaking any words. The recipient has to be
+within a mile. The message does not involve any mind reading so you
+still need to share a common language, and replying is optional.
 
 **...** (2)
 
