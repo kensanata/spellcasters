@@ -28,7 +28,10 @@ wide and 6ft tall. Breaking down this wall requires ten minutes with
 axes or a battering ram, and even longer using fire. The wood is
 otherwise permanent.
 
-**...** (1)
+**Heat metal** (1) heats metal armour within 30ft such that it deals
+1d6 damage every round for 5 rounds starting *next* round. Jumping
+into water reduces this to half. It takes more than 5 rounds to take
+off armour, so that doesn't help.
 
 **Tree jump** (2) allows you to step into any tree and out of any
 other tree within 100ft, up to ten times in ten minutes.
