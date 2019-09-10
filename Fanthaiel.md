@@ -1,20 +1,21 @@
-## Fiala
+## Fanthaiel
 
-![Fiala](Fiala.png)
-Fiala is a dragon hunter, a killer and a hater. She hates the passage
-of time, human settlements, monsters, idleness.
+![Fanthaiel](Fanthaiel.png)
+Fanthaiel is a dragon hunter, a killer and a hater. They hate the
+passage of time, human settlements, monsters, idleness.
 
-These days she hunts Agrylax the Black, a dragon haunting the Bisarch
-Forest and the High Fens, together with her band of brothers and
-sisters, a war band of twelve followers just as disciplined, taciturn
-and dour. Their names are Aja, Alca, Aneta, Bohdan, Gita, Hana, Hela,
-Leksa, Rada, Sava, Venda, Zita. Of these, Aja, Gita and Hela are her
-closest and most loyal friends from the old days.
+These days they hunt Agrylax the Black, a dragon haunting the Bisarch
+Forest and the High Fens, together with their band of siblings, a war
+band of twelve followers just as disciplined, taciturn and dour. Their
+names are Húdir, Annúndil, Brogel, Inuien, Túrion, Gemor, Girewen,
+Malthenion, Conuien, Thavoror, Luinion, and Roscon. Of these, Húdir,
+Annúndil, and Brogel are her closest and most loyal friends from the
+old days.
 
-Fiala is a full blown *lunar knight*. Like the elf lords and ladies of
-old, she can manifest lunar fury by casting her most powerful spells
-and turn into a supernatural death machine. She rarely does this, of
-course. But the power is there, and everybody knows it.
+Fanthaiel is a full blown *lunar knight*. Like the elf lords and
+ladies of old, she can manifest lunar fury by casting her most
+powerful spells and turn into a supernatural death machine. She rarely
+does this, of course. But the power is there, and everybody knows it.
 
 ### Treasure
 
