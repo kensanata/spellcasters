@@ -33,10 +33,14 @@ otherwise permanent.
 into water reduces this to half. It takes more than 5 rounds to take
 off armour, so that doesn't help.
 
+**Animate tree** (2) animates a tree within 30ft of you (HD 8 AC 2
+2d6/2d6 F8 MV 6). The tree speaks the language of plants which the
+caster doesn't automatically understand but the tree tends to attack
+fire bearers, axe wielders, and any buildings in the vicinity.
+Sometimes that is enough.
+
 **Tree jump** (2) allows you to step into any tree and out of any
 other tree within 100ft, up to ten times in ten minutes.
-
-**...** (2)
 
 **...** (2)
 
