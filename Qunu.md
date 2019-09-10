@@ -20,14 +20,12 @@ how to fly.
 
 ### The Book of Witchcraft
 
-**Charm person** (1) affects a single target, save vs. spells to
-resist. To break free, victims save again every day if their
-intelligence is 13 or better, every week if their intelligence is
-average, or every month if their intelligence is 8 or lower. While
-charmed, victims treat you as their best friend. Once victims break
-free, they remember everything they did and if they did anything they
-would not have ordinarily have done, they react with shame and anger.
-Charms usually cause severe emotional distress!
+**Charm male** (1) affects a single male person¹ target for a day, save
+vs. spells to resist. While charmed, victims treat you as their true
+love. To leave you is to die. To resist you in anything is impossible.
+Once victims break free, they remember everything they did and if they
+did anything they would not have ordinarily have done, they react with
+shame and anger. Charms usually cause severe emotional distress!
 
 **Mind rot** (1) confuses a target within 60ft for half an hour. They
 don't remember what they are doing here, they don't remember their
@@ -92,3 +90,9 @@ They know who did it.
 **...** (5)
 
 **...** (5)
+
+<span class="footnotes">
+¹ **Notes on personhood**: a person is alive, speaks a language, as a
+head, two arms, two legs, and isn't a giant (usually that means up to
+HD 4 including ogres but excluding minotaurs or trolls).
+</span>
