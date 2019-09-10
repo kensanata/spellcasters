@@ -46,10 +46,10 @@ liquefy a human-sized corpse (and drink the goo, if you feel like it).
 are able to locate the smallest vibrations within 100ft using their
 fingertips. Anytime they touch the ground or a wall, they can pinpoint
 living creatures in range – as long as these also touch the ground or
-a wall! In addition to that, their heads grows six extra eyes. This
-allows them to see in all directions, and to see additional colours
-like *jale* and *ulfire*, and while they have these extra sleepless
-eyes you can no longer be surprised. The spell ends and the eyes
+a wall! They can no longer be surprised. In addition to that, their
+heads grows six extra, sleepless eyes. This allows them to see in all
+directions, and to see additional colours like *jale* and *ulfire*.
+These eyes grant no mechanical benefits. The spell ends and the eyes
 disappear back into their surrounding flesh after half an hour.
 
 **Observation** (3) gives you the power to observe what somebody is
@@ -68,21 +68,18 @@ from any watchful eyes but near a building. You can bring along
 whatever you can carry, i.e. one other person.
 
 **Web** (3) allows you to fill a 10ft cube with sticky spider webs.
-Anybody caught in the web is automatically immobilised. It doesn't
-burn very quickly: to free a passage filled with these webs takes
-10min per 10ft. Anybody caught in a burning web takes 2d8 damage as
-they free themselves. Anybody caught in a web with an open fire such
-as a torch automatically sets it on fire.
+You need surfaces to anchor the web. Anybody caught in the web is
+automatically immobilised. Without outside help, it's practically
+impossible to free oneself from the web. A slow death awaits anybody
+caught. The web doesn't burn very quickly: to free a passage filled
+with these webs using fire takes 10min per 10ft. Anybody caught in a
+burning web takes 2d8 damage as they free themselves. Anybody caught
+in a web with a torch automatically sets it on fire and is thus
+automatically free after 10min.
 
-**Cut the thread of fate** (4) allows you see the life thread of a
+**Kill** (4) allows you see the life thread of a
 living target up to 60ft away and cut it. The target must save
 vs. death or die.
-
-**Follow the thread** (4) allows you to create a silver thread that
-leads you and up to three others to a destination you have been to
-before. The thread leads through wrinkles in the barrier between the
-realms and thus effectively allows you to reach any destination in any
-of the known realms with no more than a dozen steps.
 
 **Network** (4) allows you to tap into the network of living spiders
 all around you. Any spider within two or three miles in any direction
@@ -93,15 +90,21 @@ cannot. It is hard to project your mind into the void, looking for
 things you don't know. You must know the location or person or object
 you're interested in, for this spell to work.
 
-**Threads of fate** (5) allows you to spin invisible threads of chance
-and fate to entrap a particular person. You can cover a 100ft cube in
-a day. When the person enters the area, they end up doing the things
-you suggested with your threads, if at all possible. Random events
-trigger reactions that lead to consequences that you have laid out
-when weaving the threads. The spell can be cast multiple times in
-order to affect more people. The threads linger for as long as the
-surrounding walls keep standing. The world is full of these threads,
-waiting for victims that have passed a way ages ago.
+**Return** (4) allows you to create a silver thread that leads you and
+up to three others to a destination you have been to before. The
+thread leads through wrinkles in the barrier between the realms and
+thus effectively allows you to reach any destination in any of the
+known realms with no more than a dozen steps.
+
+**Fate** (5) allows you to spin invisible threads of chance and fate
+to entrap a particular person. You can cover a 100ft cube in a day.
+When the person enters the area, they end up doing the things you
+suggested with your threads, if at all possible. Random events trigger
+reactions that lead to consequences that you have laid out when
+weaving the threads. The spell can be cast multiple times in order to
+affect more people. The threads linger for as long as the surrounding
+walls keep standing. The world is full of these threads, waiting for
+victims that have passed a way ages ago.
 
 **Transmigration** (5) allows you to leave your body and transfer your
 soul into arthropods of any kind: insects, spiders, crabs, no matter
