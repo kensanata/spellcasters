@@ -17,6 +17,11 @@ always twelve elven students in the tower with Taurnalin.
 
 ### The Book of Trees
 
+**Heat metal** (1) heats metal armour within 30ft such that it deals
+1d6 damage every round for 5 rounds starting *next* round. Jumping
+into water reduces this to half. It takes more than 5 rounds to take
+off armour, so that doesn't help.
+
 **Magic bow and arrows** (1) summons a magic bow +1 and a quiver with
 20 arrows. These last until all the arrows have been shot, the bow is
 released, or 20min have passed. The bow cannot be passed to anybody
@@ -27,11 +32,6 @@ shields from the battlefields of Asgard to create a wooden wall 30ft
 wide and 6ft tall. Breaking down this wall requires ten minutes with
 axes or a battering ram, and even longer using fire. The wood is
 otherwise permanent.
-
-**Heat metal** (1) heats metal armour within 30ft such that it deals
-1d6 damage every round for 5 rounds starting *next* round. Jumping
-into water reduces this to half. It takes more than 5 rounds to take
-off armour, so that doesn't help.
 
 **Animate tree** (2) animates a tree within 30ft of you (HD 8 AC 2
 2d6/2d6 F8 MV 6). The tree speaks the language of plants which the
@@ -44,9 +44,11 @@ other tree within 100ft, up to ten times in ten minutes.
 
 **...** (2)
 
-**Animate tree** (3) turns a tree into a treant for 20m (HD 8 AC 8
-2d6/2d6 F8 MV 6; surprise foes 1–3/6). The treant speaks your language
-and is as helpful as it can.
+**Awaken tree** (3) turns a tree into a treant (HD 8 AC 8 2d6/2d6 F8
+MV 6; surprise foes 1–3/6). The treant speaks your language and is as
+helpful as it can in the immediate situation. As soon as politely
+possible it wanders off, wanting to finally see the world after all
+these years.
 
 **...** (3)
 
