@@ -67,7 +67,7 @@ one day.
 20min. Arrows, sling stones, rocks flung by giants, projectiles shot
 by siege weapons, all are deflected.
 
-**Lightning Bolt** (3) strikes any visible foe within 200ft and
+**Lightning bolt** (3) strikes any visible foe within 200ft and
 everybody standing between you and them, unless they're very small or
 lying on the ground. Anything within two feet of the bolt is affected
 and takes 1d6 damage per caster level (5d6 minimum), save vs. spells
