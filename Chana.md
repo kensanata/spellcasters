@@ -88,10 +88,12 @@ must save vs. spells or obey your next ten commands for a minute. This
 includes suicidal actions. This mind fork causes severe emotional
 distress!
 
-**Raise dead** (5) allows you visit the afterlife and find a person
-that died within the last ten days and bring them back into their old
-body. Their body must not have any fatal wounds because this spell
-does not regenerate missing parts.
+**Raise dead** (5) brings a corpse back to life if they have died
+within the last seven days. It must not suffer from fatal conditions
+or it simply dies again (decapitated, broken spine, that kind of
+thing). You need to touch the corpse and it takes about 10min to
+animate. This usually involves the appearance of an *angel of death*
+dragging the kicking and screaming soul back into the living world.
 
 **Summon living storm** (5) conjures an elemental, usually the air
 elemental called Angry Whip: HD 16 AC -2 3d8 F16 MV 36; plus 1d8
