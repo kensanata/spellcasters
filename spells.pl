@@ -6,13 +6,19 @@ for my $f (@ARGV) {
   my $text = read_file($f);
   while ($text =~ /^\*\*([^*]+)\*\*( .*?)\n\n/gms) {
     my $name = $1;
-    my $description = $2;
     next if $name eq '...';
+    my $description = $2;
+    $description =~ s/\*([^*]+)\*/<em>$1<\/em>/g;
     if (exists $source{$name}) {
-      warn "Duplicate $name for $f, first seen in $source{$name}\n";
+      if ($description ne $spells{$name}) {
+	warn "Duplicate $name for $f, first seen in $source{$name} (but with different description)\n";
+	warn "→ $description\n";
+	warn "→ $spells{$name}\n";
+      } else {
+	warn "Duplicate $name for $f, first seen in $source{$name}\n";
+      }
       next;
     }
-    $description =~ s/\*([^*]+)\*/<em>$1<\/em>/g;
     $spells{$name} = $description;
     $source{$name} = $f;
   }

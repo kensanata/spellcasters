@@ -49,7 +49,8 @@ reverse the spell to create a water path through ice.
 on a victim and restore 2d6+1 hit points.
 
 **Water breathing** (3) allows one target to breathe underwater for
-one day.
+one day. While breathing underwater, you can speak the languages of
+all marine creatures.
 
 **Ice storm** (3) lets the winds of the void crash through into our
 reality, drawing a line of ice and cold from you towards any target

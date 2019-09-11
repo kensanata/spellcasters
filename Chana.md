@@ -27,7 +27,7 @@ intelligence is 13 or better, every week if their intelligence is
 average, or every month if their intelligence is 8 or lower. While
 charmed, victims treat you as their best friend. Once victims break
 free, they remember everything they did and if they did anything they
-would not have ordinarily have done, they react with shame and anger.
+would not have ordinarily done, they react with shame and anger.
 Charms usually cause severe emotional distress!
 
 **Song of the water dragons** (1). Every river has a water dragon
@@ -47,7 +47,7 @@ into the afterlife and contact the souls that inhabited the skull you
 are holding. The conversation continues for as long as you keep
 talking. The soul is not necessarily friendly and cannot be charmed.
 
-**Speed** (2) allows a target to *move* at double speed for as long as
+**Haste** (2) allows a target to *move* at double speed for as long as
 it can keep moving. Once it stops, the spell ends. Assuming a horse
 can move 20 miles without stopping, this spell allows it to travel 40
 miles before stopping for a rest. A an ordinary horse can do this
@@ -61,7 +61,8 @@ ambush await us on this pass, without revealing how this fate can be
 avoided.
 
 **Water breathing** (3) allows one target to breathe underwater for
-one day.
+one day. While breathing underwater, you can speak the languages of
+all marine creatures.
 
 **Wind barrier** (3) prevents any flying thing from reaching you for
 20min. Arrows, sling stones, rocks flung by giants, projectiles shot

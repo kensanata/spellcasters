@@ -54,8 +54,9 @@ living creature. The spell can be reversed: an *invisibility purge*
 dispels all invisibilities within 60ft. Ethereal creatures or people
 shadow walking are not affected. The purge lingers for 10 minutes.
 
-**Haste** (3) enables a target to move twice as far, attack twice as
-often, cast twice as many spells per round, for 10min.
+**Speed** (3) doubles your actions every round for half an hour: move
+twice as fast, attack twice as often. You can't cast twice as many
+spells because timing is important.
 
 **Breathing** (3) allows one target to breathe poisonous air for one
 day without suffering any adverse effects.

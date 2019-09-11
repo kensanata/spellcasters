@@ -38,10 +38,10 @@ You should know your place.
 resist. To break free, victims save again every day if their
 intelligence is 13 or better, every week if their intelligence is
 average, or every month if their intelligence is 8 or lower. While
-charmed, victims will treat you as their best friend. Once victims
-break free, they will remember everything they did and if they did
-anything they would not have ordinarily have done, they will react
-with shame and anger. Charms usually cause severe emotional distress!
+charmed, victims treat you as their best friend. Once victims break
+free, they remember everything they did and if they did anything they
+would not have ordinarily done, they react with shame and anger.
+Charms usually cause severe emotional distress!
 
 **Lunar Runes** (1) allows you to read and write the ancient elven
 runes powered by lunar magic for 20min. These runes are usually
@@ -72,9 +72,9 @@ through it.
 
 **Lightning bolt** (3) strikes any visible foe within 200ft and
 everybody standing between you and them, unless they're very small or
-lying on the ground. Anything within two feet of the bolt will be
-affected and take 1d6 damage per caster level (5d6 minimum), save
-vs. spells for half damage.
+lying on the ground. Anything within two feet of the bolt is affected
+and takes 1d6 damage per caster level (5d6 minimum), save vs. spells
+for half damage.
 
 **Water breathing** (3) allows one target to breathe underwater for
 one day. While breathing underwater, you can speak the languages of
@@ -82,7 +82,7 @@ all marine creatures.
 
 **Wind barrier** (3) prevents any flying thing from reaching you for
 20min. Arrows, sling stones, rocks flung by giants, projectiles shot
-by siege weapons, all will be deflected.
+by siege weapons, all are deflected.
 
 **Decay** (4) is a curse that affects anything built by mortals:
 walls, buildings, ships, heirlooms. It doesn't matter. With a touch,
@@ -101,7 +101,8 @@ you get the new looks, the movement, the AC and the natural attacks.
 If your new shape can fly, so can you. If it can breath under water,
 so can you. If your new shape can't speak, you cannot cast spells. But
 if the creature you changed into can breathe fire, you still cannot.
-You don't get any magical abilities with the new shape.
+You don't get any magical abilities with the new shape. As a dragon,
+for example, your stats change to AC 0 1d8/1d8/3d10 MV 24 (flying).
 
 **Lunar Sailing** (5) summons a moon caravel. It appears within 10min
 and carries up to 20 people. The moon caravel can sail through shallow

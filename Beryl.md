@@ -22,22 +22,22 @@ intelligence is 13 or better, every week if their intelligence is
 average, or every month if their intelligence is 8 or lower. While
 charmed, victims treat you as their best friend. Once victims break
 free, they remember everything they did and if they did anything they
-would not have ordinarily have done, they react with shame and anger.
+would not have ordinarily done, they react with shame and anger.
 Charms usually cause severe emotional distress!
 
 **Darkness** (1) with a radius of 60ft and a duration of 2h; anybody
 within it is blind (-4 to hit). Victims get a save vs. spells.
 
-**Detect magic** (1) is always useful. 60ft range. The blue magic glow
-highlighting all enchantments is visible to all.
+**Detect magic** (1) makes all magic items within 30ft give of a faint
+blue glow for 10min. Anybody can see this glow.
 
 **Permanent darkness** (2) with a radius of 60ft; anybody within it is
 blind (-4 to hit, no targeting of spells). If you target somebody
 directly, the must save vs. spells or be blinded.
 
-**Spider senses** (2) allows you to hear the smallest vibrations
-within 300ft for a day. Within this range, you hear anybody walking
-and overhear any conversation. At the same time, more than ten people
+**Extra hearing** (2) allows you to hear the faintest sound within
+300ft for a day. Within this range, you hear anybody walking and
+overhear any conversation. At the same time, more than ten people
 moving or talking within range confuses you and any shouting or
 banging hurts.
 

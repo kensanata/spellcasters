@@ -31,11 +31,11 @@ centaur for 10min. With your legs, you can climb along any solid
 surface or rope. With your spider silk gland, you can secure yourself
 against falls when jumping.
 
-**Glamour** (2) allows you to turn into a beautiful human, with the
-most enchanting voice and amazing grace. Others spending more than an
-hour in your company may save vs. spells to notice a disconcerting
-flickering of the glamour momentarily revealing an alternate reality
-of multiple eyes or extra spider legs growing out of your back.
+**Glamour** (2) is an illusion improving your looks in all respects,
+for a day: you look young and beautiful, your scars are gone, you
+smell of flowers, your voice is smooth and soothing. Like all
+illusions, anybody touching you may save vs. spells in order to see
+through it.
 
 **Liquefy** (2) makes your jaw grow large, with acid glands, and if
 you manage to bite somebody in that very moment, they must save

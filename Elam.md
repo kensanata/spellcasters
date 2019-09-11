@@ -40,7 +40,7 @@ intelligence is 13 or better, every week if their intelligence is
 average, or every month if their intelligence is 8 or lower. While
 charmed, victims treat you as their best friend. Once victims break
 free, they remember everything they did and if they did anything they
-would not have ordinarily have done, they react with shame and anger.
+would not have ordinarily done, they react with shame and anger.
 Charms usually cause severe emotional distress!
 
 **Door** (2) creates an unlocked door¹ in a wall you touch. The wall

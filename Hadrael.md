@@ -29,8 +29,10 @@ blue glow for 10min. Anybody can see this glow.
 
 **Restore faith** (1) heals 1d6+1 points upon touching the target
 
-**Sleep** (1) puts 2d8 HD of creatures to sleep, no save. The
-creatures with the least HD go first.
+**Sleep** (1) puts 2d8 HD of creatures to sleep. It works on friend
+and foe alike, so it cannot safely be used against foes in melee.
+Lower hit dice and lower hit points are affected first. No save.
+Creatures with more than four hit dice are immune.
 
 **Speak with animals** (2) allows you to converse with animals of a
 particular species for 20min. A reaction roll might still be necessary
@@ -69,9 +71,14 @@ hardiness but doesn't immediately turn to dust. The thorns lose their
 sting, the wood loses its fire resistance, its imperviousness to salt
 water.
 
-**Shape change** (4) allows the transformation into a different
-creature for 2h, such as a dragon. As a dragon, Hadrael's stats change
-to AC 0 1d8/1d8/3d10 MV 24 (flying).
+**Shape change** (4) allows you to change your shape. You get all the
+physical and none of the mental abilities of your new shape: basically
+you get the new looks, the movement, the AC and the natural attacks.
+If your new shape can fly, so can you. If it can breath under water,
+so can you. If your new shape can't speak, you cannot cast spells. But
+if the creature you changed into can breathe fire, you still cannot.
+You don't get any magical abilities with the new shape. As a dragon,
+for example, your stats change to AC 0 1d8/1d8/3d10 MV 24 (flying).
 
 **Wait** (4) allows you and up to twenty companions to enter a special
 trance that removes your bodies from the time stream. Your minds still
