@@ -8,7 +8,7 @@ ALL=$(patsubst %.md,%.pdf,$(CASTERS))
 all: $(ALL) Spellcasters.pdf
 
 %.pdf: %.html spellcasters.css
-	weasyprint --stylesheet spellcasters.css $< $@
+	weasyprint $< $@
 
 Spellcasters.html.tmp: Spellcasters.md
 
