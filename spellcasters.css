@@ -32,9 +32,14 @@ img { float: right; margin: 1ex; width: 100px }
 /* footnotes */
 .footnotes { font-size: 90% }
 p .footnotes { display: block; margin-top: 1em }
-/* https://www.w3.org/Style/Examples/007/indent.en.html */
-p { margin-bottom: 0 }
-p + p { text-indent: 1.5em; margin-top: 0 }
+@media print {
+    /* https://www.w3.org/Style/Examples/007/indent.en.html */
+    p { margin-bottom: 0 }
+    p + p { text-indent: 1.5em; margin-top: 0 }
+}
+@media screen {
+    body { max-width: 80ex }
+}
 /* page numbers */
 @page {
   @bottom-center {
