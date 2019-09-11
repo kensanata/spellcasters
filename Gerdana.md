@@ -70,7 +70,7 @@ smell of flowers, your voice is smooth and soothing. Like all
 illusions, anybody touching you may save vs. spells in order to see
 through it.
 
-**Lightning Bolt** (3) strikes any visible foe within 200ft and
+**Lightning bolt** (3) strikes any visible foe within 200ft and
 everybody standing between you and them, unless they're very small or
 lying on the ground. Anything within two feet of the bolt will be
 affected and take 1d6 damage per caster level (5d6 minimum), save
