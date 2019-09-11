@@ -20,11 +20,13 @@ how to fly.
 
 ### The Book of Witchcraft
 
-**Charm male** (1) affects a single male person¹ target for a day, save
+**Charm male** (1) affects a single male person¹ for a day, save
 vs. spells to resist. While charmed, victims treat you as their true
 love. To leave you is to die. To resist you in anything is impossible.
-Once victims break free, they remember everything they did and if they
-did anything they would not have ordinarily have done, they react with
+If the charm is renewed daily, the target is unwilling to resist and
+thus remains forever enthralled as long as the spell is renewed. Once
+a victim break free, they remember everything they did and if they did
+anything they would not have ordinarily have done, they react with
 shame and anger. Charms usually cause severe emotional distress!
 
 **Mind rot** (1) confuses a target within 60ft for half an hour. They
@@ -45,9 +47,19 @@ all around you. For the next half hour, nobody within 30ft. may harm
 you or resist your kiss unless they save vs. spells. The spell ends if
 you kiss somebody.
 
-**...** (2)
+**Servant** (2) creates a magical servant of your devising, just for
+you. It can be a dead body given ghoulish life, a zombie, a talking
+crow, or an owl, or a dead knight, anything like that. If the servant
+is at least as large as a child, it can fight: HD 2 AC 9 1d6 MV 9. It
+might even wield a weapon and wear armour, if suitable a weapon and
+armour can be found.
 
-**...** (2)
+**Illusion** (2) allows you to create and maintain an illusion as
+large as a house for as long as you concentrate on it. Anybody
+touching it may save vs. spells in order to see through the illusion.
+An illusion attacks like the caster but always has an AC of 9.
+Illusionary damage affects you as long as you believe it until you
+faint.
 
 **Flying** (3) allows you to fly at half you movement speed (like a
 person wearing plate armour) for 2h. When the spell ends and you are
@@ -67,11 +79,12 @@ can see and follow the strings that connect the puppet to its master.
 **Curse** (4) affects a visible target within hearing distance, unless
 they save vs. spells. Curses include *love* (intelligence 3),
 *weakness* (strength 3), *trembling* (dexterity 3), *sickness*
-(constitution 3), *shape changing* (turn into an animal during either
-day or night), *bad luck* (-4 to all saves) and the like. When
-pronouncing the curse, you must mention a way for somebody to break
-the curse ("until kissed by a prince" or "until invited into a house",
-for example). The curse can be broken by a reversal of this spell.
+(constitution 3), *coughing up worms* (charisma 3), *shape changing*
+(turn into an animal during either day or night), *bad luck* (-4 to
+all saves) and the like. When pronouncing the curse, you must mention
+a way for somebody to break the curse ("until kissed by a prince" or
+"until invited into a house", for example). The curse can be broken by
+a reversal of this spell.
 
 **Doll** (4) allows you to create a doll of another person, if and
 only if you have a bit of their hair. This doll is linked to the owner
@@ -87,7 +100,14 @@ They know who did it.
 
 **...** (4)
 
-**...** (5)
+**Magic kingdom** (5) enchants an entire region and allows you to
+create illusions with semi-autonomous behaviour for two miles around
+you: a forest full of grasping roots, a candy land, whatever you want.
+The limitations on illusions continue to apply, however. Anybody
+touching an illusion may save vs. spells in order to see through the
+illusion. That is why the easiest illusions to maintain are scary
+illusions or unreachable ones, of course. An illusion attacks like the
+caster but always has an AC of 9.
 
 **...** (5)
 
