@@ -27,7 +27,7 @@ spells.html: $(CASTERS) spells.pl
 %.html: %.html.tmp spellcasters-prefix spellcasters-suffix
 	cat spellcasters-prefix $< spellcasters-suffix > $@
 
-upload: $(ALL) Spellcasters.pdf spells.html
+upload: $(ALL) Spellcasters.pdf spells.html spellcasters.css
 	rsync --rsh="ssh -p 882" \
 		$^ alexschroeder.ch:alexschroeder.ch/pdfs/spellcasters/
 
