@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 # Copyright (C) 2019  Alex Schroeder <alex@gnu.org>
 #
 # This program is free software: you can redistribute it and/or modify it under
@@ -15,28 +16,40 @@
 use Modern::Perl '2018';
 use File::Slurp qw(read_file);
 use List::Util qw(none);
+use Encode qw(decode);
+use Test::More;
+
+my @others = qw(README.md Foreword.md Spellcasters.md);
+my @files = grep {
+  my $file = $_;
+  none { $_ eq $file } @others;
+} <"*.md">;
 
 my %spells;
 my %source;
 
-for my $file (@ARGV) {
-  my $text = read_file($file); # octets!
-  while ($text =~ /^\*\*([^*]+)\*\*( .*?)\n\n/gms) {
+for my $file (@files) {
+  my $octets = read_file($file);
+  my $string = decode("UTF-8", $octets);
+  while ($string =~ /^\*\*([^*]+)\*\*( .*?)\n\n/gms) {
     my $name = $1;
     next if $name eq '...';
     my $description = $2;
     $description =~ s/\*([^*]+)\*/<em>$1<\/em>/g;
-    next if exists $source{$name};
+    ok(not(exists $source{$name}), "$name is a new spell");
+    if (exists $source{$name}) {
+      if ($description ne $spells{$name}) {
+	diag "Duplicate $name for $file, first seen in $source{$name} (but with different description)\n";
+	diag "→ $description\n";
+	diag "→ $spells{$name}\n";
+      } else {
+	diag "Duplicate $name for $file, first seen in $source{$name}\n";
+      }
+      next;
+    }
     $spells{$name} = $description;
     $source{$name} = $file;
   }
 }
-print read_file('spellcasters-prefix');
-say "<h1>All the Spells</h1>";
-say "<p>The spell name in <strong>bold</strong>, followed by the spell circle in parenthesis (1–5).";
-for my $name (sort keys %spells) {
-  my $id = lc($name);
-  $id =~ s/ /-/g;
-  say("<p id=\"$id\"><strong>$name</strong>$spells{$name}</p>");
-}
-print read_file('spellcasters-suffix');
+
+done_testing;
