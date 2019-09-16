@@ -109,7 +109,15 @@ illusion. That is why the easiest illusions to maintain are scary
 illusions or unreachable ones, of course. An illusion attacks like the
 caster but always has an AC of 9.
 
-**...** (5)
+**Curse the land** (5) enchants an entire region and places a curse on
+it, for example eternal slumber or permanent winter. The pronouncement
+of the curse must be followed by a feasible way to undo it and this
+possibility must be known to at least one witness. As long as somebody
+else remembers the curse and the way to undo it, the curse is upheld.
+When the last person who knows how to break the curse dies, the curse
+is lifted. If the curse affects people directly, such as the eternal
+slumber curse, they must save vs. spells to be able to leave the
+cursed region.
 
 <span class="footnotes">
 ¹ **Notes on personhood**: a person is alive, speaks a language, as a
