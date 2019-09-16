@@ -77,11 +77,14 @@ they feel watched.
 
 **Curse** (4) affects a visible target within hearing distance, or
 anybody who's hair you have in your fingers, unless they save
-vs. spells. Curses include love (intelligence 3), weakness (strength
-3), trembling (dexterity 3), sickness (constitution 3), shape changing
-(turn into an animal during either day or night), bad luck (-4 to all
-saves), and the like. This spell can be reversed to break an existing
-curse.
+vs. spells. Curses include *love* (intelligence 3), *weakness*
+(strength 3), *trembling* (dexterity 3), *sickness* (constitution 3),
+*coughing up worms* (charisma 3), *shape changing* (turn into an
+animal during either day or night), *bad luck* (-4 to all saves) and
+the like. When pronouncing the curse, you must mention a way for
+somebody to break the curse ("until kissed by a prince" or "until
+invited into a house", for example). The curse can be broken by a
+reversal of this spell.
 
 **Shadow walking** (4) is the art of opening a passage to the plane of
 shadows, a place where an endless labyrinth of ruins open to a dim

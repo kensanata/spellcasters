@@ -70,10 +70,10 @@ and water will allow without actually building anything. This spell
 must be renewed once a week or this oasis loses its magic and fall
 apart within a month.
 
-**Wall of fire** (4) allows you to create a wall of fire that cannot
-be crossed by any creature with 4HD or less. When crossed, the wall
-inflicts 1d6 fire damage. The wall is 10ft high and up to 200ft long.
-This is enough for a circle with 30ft radius.
+**Wall of fire** (4) creates a stationary wall of fire 300ft wide,
+30ft high and 10ft deep. This is enough for a circle with 50ft radius.
+No animal will cross it and any other creature doing so takes 2d8
+points of fire damage. This wall lasts for 20min or until dismissed.
 
 **Summoning a lord of fire** (4) summons an ifrit from Muspelheim.
 

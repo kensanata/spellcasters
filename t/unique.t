@@ -35,7 +35,6 @@ for my $file (@files) {
     my $name = $1;
     next if $name eq '...';
     my $description = $2;
-    $description =~ s/\*([^*]+)\*/<em>$1<\/em>/g;
     ok(not(exists $source{$name}), "$name is a new spell");
     if (exists $source{$name}) {
       if ($description ne $spells{$name}) {

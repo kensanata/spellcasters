@@ -73,9 +73,9 @@ commands. If you don't, you are limited to whatever you can convey
 without words. The spell lasts for 10min.
 
 **Wall of fire** (4) creates a stationary wall of fire 300ft wide,
-30ft high and 10ft deep. No animal will cross it and any other
-creature doing so takes 2d6 points of fire damage. This wall lasts for
-20min or until dismissed.
+30ft high and 10ft deep. This is enough for a circle with 50ft radius.
+No animal will cross it and any other creature doing so takes 2d8
+points of fire damage. This wall lasts for 20min or until dismissed.
 
 **Eyes of truth** (5) reveals all illusions, invisible things,
 ethereal beings, astral projections and whatever else there is. This

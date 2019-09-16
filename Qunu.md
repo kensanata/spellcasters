@@ -76,15 +76,22 @@ can see and follow the strings that connect the puppet to its master.
 
 **...** (3)
 
-**Curse** (4) affects a visible target within hearing distance, unless
-they save vs. spells. Curses include *love* (intelligence 3),
-*weakness* (strength 3), *trembling* (dexterity 3), *sickness*
-(constitution 3), *coughing up worms* (charisma 3), *shape changing*
-(turn into an animal during either day or night), *bad luck* (-4 to
-all saves) and the like. When pronouncing the curse, you must mention
-a way for somebody to break the curse ("until kissed by a prince" or
-"until invited into a house", for example). The curse can be broken by
-a reversal of this spell.
+**Awaken stone** (4) turns a boulder into a stone giants (HD 9 AC 1
+3d6 F8 MV 6; surprise foes 1–3/6). The giant speaks your language and
+is as helpful as it can in the immediate situation. As soon as
+politely possible it wanders off, wanting to finally see the world
+after all these years.
+
+**Curse** (4) affects a visible target within hearing distance, or
+anybody who's hair you have in your fingers, unless they save
+vs. spells. Curses include *love* (intelligence 3), *weakness*
+(strength 3), *trembling* (dexterity 3), *sickness* (constitution 3),
+*coughing up worms* (charisma 3), *shape changing* (turn into an
+animal during either day or night), *bad luck* (-4 to all saves) and
+the like. When pronouncing the curse, you must mention a way for
+somebody to break the curse ("until kissed by a prince" or "until
+invited into a house", for example). The curse can be broken by a
+reversal of this spell.
 
 **Doll** (4) allows you to create a doll of another person, if and
 only if you have a bit of their hair. This doll is linked to the owner
@@ -98,17 +105,6 @@ catches fire. It is a heinous way to go. And while they are dying,
 they – and anybody close to them – can see your face, hear your voice.
 They know who did it.
 
-**...** (4)
-
-**Magic kingdom** (5) enchants an entire region and allows you to
-create illusions with semi-autonomous behaviour for two miles around
-you: a forest full of grasping roots, a candy land, whatever you want.
-The limitations on illusions continue to apply, however. Anybody
-touching an illusion may save vs. spells in order to see through the
-illusion. That is why the easiest illusions to maintain are scary
-illusions or unreachable ones, of course. An illusion attacks like the
-caster but always has an AC of 9.
-
 **Curse the land** (5) enchants an entire region and places a curse on
 it, for example eternal slumber or permanent winter. The pronouncement
 of the curse must be followed by a feasible way to undo it and this
@@ -118,6 +114,15 @@ When the last person who knows how to break the curse dies, the curse
 is lifted. If the curse affects people directly, such as the eternal
 slumber curse, they must save vs. spells to be able to leave the
 cursed region.
+
+**Magic kingdom** (5) enchants an entire region and allows you to
+create illusions with semi-autonomous behaviour for two miles around
+you: a forest full of grasping roots, a candy land, whatever you want.
+The limitations on illusions continue to apply, however. Anybody
+touching an illusion may save vs. spells in order to see through the
+illusion. That is why the easiest illusions to maintain are scary
+illusions or unreachable ones, of course. An illusion attacks like the
+caster but always has an AC of 9.
 
 <span class="footnotes">
 ¹ **Notes on personhood**: a person is alive, speaks a language, as a
