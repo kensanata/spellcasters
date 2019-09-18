@@ -108,12 +108,12 @@ They know who did it.
 **Curse the land** (5) enchants an entire region and places a curse on
 it, for example eternal slumber or permanent winter. The pronouncement
 of the curse must be followed by a feasible way to undo it and this
-possibility must be known to at least one witness. As long as somebody
-else remembers the curse and the way to undo it, the curse is upheld.
-When the last person who knows how to break the curse dies, the curse
-is lifted. If the curse affects people directly, such as the eternal
-slumber curse, they must save vs. spells to be able to leave the
-cursed region.
+possibility must be known to at least one witness. There is no other
+way to end this curse. As long as somebody else remembers the curse
+and the way to undo it, the curse is upheld. When the last person who
+knows how to break the curse dies, the curse is lifted. If the curse
+affects people directly, such as the eternal slumber curse, they must
+save vs. spells to be able to leave the cursed region.
 
 **Magic kingdom** (5) enchants an entire region and allows you to
 create illusions with semi-autonomous behaviour for two miles around
