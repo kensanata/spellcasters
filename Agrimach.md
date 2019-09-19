@@ -24,11 +24,6 @@ Sadly, some of Fiala’s descendants learned of this deal and now
 they’ve turned into bandits, knowing that they’ll be protected by
 Agrimach when push comes to shove.
 
-### Treasure
-
-The *amulet of treading softly* turns its wearer invisible to the
-undead as long as they hold their breath.
-
 ### The Book of the Dead
 
 **Aura of fear** (1) affects one victim within 30ft; they must save

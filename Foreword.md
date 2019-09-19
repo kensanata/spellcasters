@@ -1,20 +1,21 @@
-# Spellcasters
+<address>Alex Schroeder</address>
+
+# Halberds & Helmets Spellcasters
+
+<img class="title" src="Foreword.jpg" />
 
 ## Foreword
 
 In [Halberds &
 Helmets](https://alexschroeder.ch/wiki/Halberds_and_Helmets), magic
-users and elves need to learn new spells from another spellcaster.
-This book lists a few of them to act as quest givers and teachers for
+users and elves need to learn new spells from other spellcasters. This
+book lists a few of them to act as quest givers and teachers for
 player characters.
 
-All these magic users and elves are level ten. This is where I usually
-cap the game and I'm not interested in semi-divine magic users and
-elves. If those make an appearance in my games, I just give them
-whatever abilities I want. If players want special powers, let them
-quest for it. All of this means that the repertoire of these
-spellcasters is always the same: two spells of the fifth circle and
-three spells of every circle below that.
+All the magic users and elves in this booklet are level ten. This
+means that the repertoire of these spellcasters is always the same:
+two spells of the fifth circle and three spells of every other circle
+that.
 
 The magic users have 10d4 hit points and wear no armour (AC 9), elves
 have 10d6 hit points and wear fancy elven plate armour and a shield
@@ -25,21 +26,32 @@ spells are repeated. I hope you don't mind. If you have better ideas,
 submit them! My email address:
 [kensanata@gmail.com](mailto:kensanata@gmail.com).
 
-If there are small differences between similar spells, then so be it.
-These are the spells that the spellcasters have. It is up to the
-players to decide which variants their characters consider worth
-learning.
+If there are similar spells, then it is up to the players to decide
+which variants their characters consider worth learning and which
+magic users or elves to befriend.
 
-As for the general classification, this is my rule of thumb: if a
-spell has a quantifiable effect in the 1d6 range, it's a spell of the
-first circle. Invisibility is a spell of the second level. Dealing
-damage in the 1d6 per caster level range is a spell of the third
-circle. Save or die is a spell of the fourth circle. Shape-changing is
-also of the fourth circle; limits to shape-changing (a single shape
-only, or only flying) is of the third circle. Teleportation is a spell
-of the fourth circle; moving a large number of people around or
-creating pocket dimensions and the like is a spell of the fifth
-circle.
+As for the general classification, this is my rule of thumb:
+
+* if a spell has a quantifiable effect in the 1d6 range, it's a spell
+  of the first circle
+
+* many utility spells such as *invisibility* are spells of the second
+  circle
+
+* dealing damage in the 1d6 per caster level range is a spell of the
+  third circle
+
+* *save or die* effects are spells of the fourth circle
+
+* *shape changing* is also of the fourth circle but if there are
+  limits on it (a single shape only, or only flying), then the spell
+  is of the third circle
+  
+* long range transportation like *shadow walking* are spells of the
+  fourth circle
+
+* creating pocket dimensions and the like are spells of the fifth
+  circle.
 
 ## License
 
