@@ -1,10 +1,9 @@
 ## Qunu
 
-![Qunu](Qunu.png)
-Qunu is a witch. She's not one of the old and bitter hags cursed by
-too many deals with the devil, no. She's one of the favorites of Hel,
-the goddess of magic: charming, powerful, beautiful, intelligent,
-always a step ahead of the game.
+![Qunu](Qunu.png) Qunu is a witch. She's not one of the bitter hags
+that made too many deals with the devil, oh no: she's one of the
+favorites of Hel, the goddess of magic: charming, powerful, beautiful,
+intelligent, always a step ahead of you.
 
 She lives in a beautiful palace built into the *Wall of Aigur*, a
 sheer wall only reachable by a precarious foot path secured by damp
@@ -30,21 +29,21 @@ anything they would not have ordinarily have done, they react with
 shame and anger. Charms usually cause severe emotional distress!
 
 **Mind rot** (1) confuses a target within 60ft for half an hour. They
-don't remember what they are doing here, they don't remember their
-name, their friends, their enemies, their spells, the books they've
-read, and so on. Their soul is still here, so their *feelings* are
-unaffected. Sadly, it's hard to act coherently if all you know is how
-you feel about people and situations. When the spell ends, the victims
-don't recall much, not even the moment they lost their mind.
+don't remember what they were doing, they don't remember their name,
+their friends, their enemies, their spells, the books they've read.
+Their soul is still here, their *feelings* are unaffected. But it's
+hard to act coherently if all you know is how you feel about people
+and situations. When the spell ends, the victims don't recall much,
+not even the moment they lost their mind.
 
 **Silent message** (1) allows you to send a short message and receive
 a short answer without speaking any words. The recipient has to be
 within a mile. The message does not involve any mind reading so you
 still need to share a common language, and replying is optional.
 
-**Beautiful** (2) makes you the most beautiful being in the world for
-all around you. For the next half hour, nobody within 30ft. may harm
-you or resist your unless they save vs. spells, or if you harm them.
+**Bedazzlement** (2) creates a 30ft radius aura around you. Nobody in
+range may harm or resist you unless they save vs. spells, or if you
+harm them.
 
 **Servant** (2) creates a magical servant of your devising, just for
 you. It can be a dead body given ghoulish life, a zombie, a talking
@@ -73,17 +72,16 @@ something, but you control their arms and legs. You can make them
 jump, dance, fall over, crawl. Anybody who can *see invisible things*
 can see and follow the strings that connect the puppet to its master.
 
-**Blight** (3) allows you to target at one creature per level (minimum
+**Blight** (3) allows you to pick up to one target per level (minimum
 5) within 60ft. Targets must save vs. death or start burning up from
-the inside as black fire consumes them: as long as you keep
-concentrating they take 5d6 damage per round until they are dead or
-move out of the spell range.
+the inside as black fire consumes them: as long as you focus on it
+they take 5d6/rd until they are dead or leave the spell range.
 
-**Awaken stone** (4) turns a boulder into a stone giants (HD 9 AC 1
-3d6 F8 MV 6; surprise foes 1–3/6). The giant speaks your language and
-is as helpful as it can in the immediate situation. As soon as
-politely possible it wanders off, wanting to finally see the world
-after all these years.
+**Awaken stone** (4) turns a boulder into a stone giant (HD 9 AC 1 3d6
+F8 MV 6; surprise foes 1–3/6). The giant speaks your language and is
+as helpful as it can in the immediate situation. As soon as politely
+possible it wanders off to finally see the world after all these
+years.
 
 **Curse** (4) affects a visible target within hearing distance, or
 anybody who's hair you have in your fingers, unless they save
