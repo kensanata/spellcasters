@@ -44,8 +44,7 @@ still need to share a common language, and replying is optional.
 
 **Beautiful** (2) makes you the most beautiful being in the world for
 all around you. For the next half hour, nobody within 30ft. may harm
-you or resist your kiss unless they save vs. spells. The spell ends if
-you kiss somebody.
+you or resist your unless they save vs. spells, or if you harm them.
 
 **Servant** (2) creates a magical servant of your devising, just for
 you. It can be a dead body given ghoulish life, a zombie, a talking
@@ -74,7 +73,11 @@ something, but you control their arms and legs. You can make them
 jump, dance, fall over, crawl. Anybody who can *see invisible things*
 can see and follow the strings that connect the puppet to its master.
 
-**...** (3)
+**Blight** (3) allows you to target at one creature per level (minimum
+5) within 60ft. Targets must save vs. death or start burning up from
+the inside as black fire consumes them: as long as you keep
+concentrating they take 5d6 damage per round until they are dead or
+move out of the spell range.
 
 **Awaken stone** (4) turns a boulder into a stone giants (HD 9 AC 1
 3d6 F8 MV 6; surprise foes 1–3/6). The giant speaks your language and
