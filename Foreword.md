@@ -53,6 +53,13 @@ As for the general classification, this is my rule of thumb:
 * creating pocket dimensions and the like are spells of the fifth
   circle.
 
+### Online Resources
+
+* [Blog](https://alexschroeder.ch/wiki/Spellcasters)
+* [PDFs](https://alexschroeder.ch/pdfs/spellcasters/)
+* [Markdown](https://alexschroeder.ch/cgit/spellcasters/tree/)
+* [Index](https://campaignwiki.org/wiki/Spellcasters/Spells)
+
 ## License
 
 This work is licensed under the Creative Commons Attribution

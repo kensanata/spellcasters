@@ -76,5 +76,3 @@ p .footnotes { display: block; margin-top: 1em }
 h1, h3 { bookmark-level: none }
 /* page breaks */
 h2 { break-before : always }
-/* except for the first one */
-h1 + h2 { break-before : auto }
