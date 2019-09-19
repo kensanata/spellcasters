@@ -21,15 +21,15 @@ Spellcasters.md: Foreword.md $(CASTERS)
 		--extension markdown.extensions.smarty \
 		--file=$@ $<
 
-spells.html: $(CASTERS) spells.pl
-	perl spells.pl $(CASTERS) > $@
-
 %.html: %.html.tmp spellcasters-prefix spellcasters-suffix
 	cat spellcasters-prefix $< spellcasters-suffix > $@
 
-upload: $(ALL) Spellcasters.pdf spells.html spellcasters.css
+upload: $(ALL) Spellcasters.pdf spellcasters.css
 	rsync --rsh="ssh -p 882" \
 		$^ alexschroeder.ch:alexschroeder.ch/pdfs/spellcasters/
+
+wiki: $(CASTERS)
+	perl spells.pl $^
 
 test:
 	prove t

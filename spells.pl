@@ -15,28 +15,46 @@
 use Modern::Perl '2018';
 use File::Slurp qw(read_file);
 use List::Util qw(none);
+use LWP::UserAgent ();
 
 my %spells;
 my %source;
 
 for my $file (@ARGV) {
   my $text = read_file($file); # octets!
-  while ($text =~ /^\*\*([^*]+)\*\*( .*?)\n\n/gms) {
-    my $name = $1;
+  while ($text =~ /^(\*\*([^*]+)\*\* .*?)\n\n/gms) {
+    my $name = $2;
     next if $name eq '...';
-    my $description = $2;
-    $description =~ s/\*([^*]+)\*/<em>$1<\/em>/g;
     next if exists $source{$name};
-    $spells{$name} = $description;
+    my $spell = $1;
+    $spells{$name} = $spell;
     $source{$name} = $file;
   }
 }
-print read_file('spellcasters-prefix');
-say "<h1>All the Spells</h1>";
-say "<p>The spell name in <strong>bold</strong>, followed by the spell circle in parenthesis (1–5).";
+
+my $spells = "Each paragraph begins with the **spell name** "
+    . "followed by the spell circle in parenthesis (1–5), "
+    . "also known as the *spell level*.\n\n";
 for my $name (sort keys %spells) {
   my $id = lc($name);
   $id =~ s/ /-/g;
-  say("<p id=\"$id\"><strong>$name</strong>$spells{$name}</p>");
+  $spells .= "[:$id]\n";
+  $spells .= "$spells{$name}\n\n";
 }
-print read_file('spellcasters-suffix');
+
+my $url = 'https://campaignwiki.org/wiki/Spellcasters';
+my %form = (
+  frodo => 1,
+  username => 'Alex',
+  title => 'Spells',
+  summary => 'Update',
+  text => $spells );
+
+my $ua = LWP::UserAgent->new;
+my $response = $ua->post( $url, \%form );
+
+if ($response->code == 302) {
+  say "Posted";
+} else {
+  die $response->status_line;
+}
