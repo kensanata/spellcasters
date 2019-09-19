@@ -22,7 +22,7 @@ my %source;
 
 for my $file (@ARGV) {
   my $text = read_file($file); # octets!
-  while ($text =~ /^(\*\*([^*]+)\*\* .*?)\n\n/gms) {
+  while ($text =~ /^(\*\*([^*]+)\*\* .*?)(\n\n|\n?\z)/gms) {
     my $name = $2;
     next if $name eq '...';
     next if exists $source{$name};
