@@ -99,10 +99,14 @@ two.
 physical and none of the mental abilities of your new shape: basically
 you get the new looks, the movement, the AC and the natural attacks.
 If your new shape can fly, so can you. If it can breath under water,
-so can you. If your new shape can't speak, you cannot cast spells. But
-if the creature you changed into can breathe fire, you still cannot.
-You don't get any magical abilities with the new shape. As a dragon,
-for example, your stats change to AC 0 1d8/1d8/3d10 MV 24 (flying).
+so can you. If your new shape can't speak, you cannot cast spells. If
+the creature you changed into can breathe fire, you still cannot: You
+don't get any magical abilities with the new shape. If you change into
+a monster, it may not have more HD than you have levels. If you are a
+level 9 caster and turn into a dragon, for example, your stats change
+to the stats of a blue dragon: AC 0 1d8/1d8/3d10 MV 24 (flying). You
+keep your hit points and to-hit scores since your class doesn't
+change. You return to your natural shape when you loose consciousness.
 
 **Lunar Sailing** (5) summons a moon caravel. It appears within 10min
 and carries up to 20 people. The moon caravel can sail through shallow
