@@ -24,7 +24,7 @@ Spellcasters.md: Foreword.md $(CASTERS)
 %.html: %.html.tmp spellcasters-prefix spellcasters-suffix
 	cat spellcasters-prefix $< spellcasters-suffix > $@
 
-upload: $(ALL) Spellcasters.pdf spellcasters.css
+upload: $(ALL) Spellcasters.pdf
 	rsync --rsh="ssh -p 882" \
 		$^ alexschroeder.ch:alexschroeder.ch/pdfs/spellcasters/
 
