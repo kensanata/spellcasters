@@ -13,7 +13,7 @@ address {
     position: absolute;
     top: 1em;
     left: 1em;
-    font-family: "Gill Sans", "Gillus", "Helvetica";
+    font-family: "Gill Sans", "Gillus ADF", "Helvetica";
     font-size: 16pt;
     font-weight: normal;
     font-style: normal;
@@ -24,7 +24,7 @@ address {
 
 h1 {
     margin-top: 40%;
-    font-family: "Gill Sans", "Gillus ADF";
+    font-family: "Gill Sans", "Gillus ADF", "Helvetica";
     font-size: 32pt;
     line-height: 40pt;
     font-weight: normal;
@@ -34,7 +34,15 @@ h1 {
     letter-spacing: 0.15em;
 }
 
-img.title { text-align: center; margin: 1ex; width: 80%; }
+.timestamp {
+    font-family: "Gill Sans", "Gillus ADF", "Helvetica";
+    font-size: 12pt;
+    letter-spacing: 0.3em;
+    margin-top: 3em;
+}
+
+.title { text-align: center; }
+.title img { float: none; width: 80%; }
 
 /* spellcasters */
 

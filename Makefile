@@ -12,7 +12,10 @@ all: $(ALL) Spellcasters.pdf
 
 Spellcasters.html.tmp: Spellcasters.md
 
-Spellcasters.md: Cover.md Foreword.md $(CASTERS)
+timestamp: Cover.md Foreword.md $(CASTERS)
+	date '+<p class="timestamp">%B %d, %Y</p>' > $@
+
+Spellcasters.md: Cover.md timestamp Foreword.md $(CASTERS)
 	cat $^ > $@
 
 Spellcasters-no-cover.md: Foreword.md $(CASTERS)

@@ -2,4 +2,4 @@
 
 # Halberds & Helmets Spellcasters
 
-<img class="title" src="Cover.jpg" />
+<p class="title"><img src="Cover.jpg" /></p>
