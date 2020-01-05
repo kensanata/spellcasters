@@ -1,25 +1,35 @@
 CSS=spellcasters.css
 
 # Create a PDF for every Markdown file
-NO_CASTERS=README.md Cover.md Foreword.md Spellcasters.md Spellcasters-no-cover.md
+NO_CASTERS=README.md \
+	Cover-Spellcasters.md Cover-Spells.md \
+	Foreword-Spellcasters.md Foreword-Spells.md \
+	Spells.md Spells-no-cover.md \
+	Spellcasters.md Spellcasters-no-cover.md
 CASTERS=$(sort $(filter-out $(NO_CASTERS),$(wildcard *.md)))
 ALL=$(patsubst %.md,%.pdf,$(CASTERS))
 
-all: $(ALL) Spellcasters.pdf
+all: Spellcasters.pdf Spellcasters.epub Spells.pdf Spells.epub
+
+individuals: $(ALL)
+
+upload: Spellcasters.pdf Spellcasters.epub Spells.pdf Spells.epub $(ALL)
+	rsync --rsh="ssh -p 882" \
+		$^ alexschroeder.ch:alexschroeder.ch/pdfs/spellcasters/
+
+clean:
+	rm -f *.pdf *.epub *.html *.html.tmp Spells.md Spellcasters.md
+
+test:
+	prove t
+
+# --- PDF ---
 
 %.pdf: %.html spellcasters.css
 	weasyprint $< $@
 
-Spellcasters.html.tmp: Spellcasters.md
-
-timestamp: Cover.md Foreword.md $(CASTERS)
-	date '+<p class="timestamp">%B %d, %Y</p>' > $@
-
-Spellcasters.md: Cover.md timestamp Foreword.md $(CASTERS)
-	cat $^ > $@
-
-Spellcasters-no-cover.md: Foreword.md $(CASTERS)
-	cat $^ > $@
+%.html: %.html.tmp spellcasters-prefix spellcasters-suffix
+	cat spellcasters-prefix $< spellcasters-suffix > $@
 
 %.html.tmp: %.md
 	python3 -m markdown \
@@ -27,27 +37,43 @@ Spellcasters-no-cover.md: Foreword.md $(CASTERS)
 		--extension markdown.extensions.smarty \
 		--file=$@ $<
 
-%.html: %.html.tmp spellcasters-prefix spellcasters-suffix
-	cat spellcasters-prefix $< spellcasters-suffix > $@
+%.md: Cover-%.md timestamp Foreword-%.md $(CASTERS)
+	cat $^ > $@
 
-Spellcasters-no-cover.html: Spellcasters-no-cover.html.tmp spellcasters-prefix spellcasters-suffix
-	cat spellcasters-prefix $< spellcasters-suffix > $@
+# This rule different from Spells-no-cover.md so no pattern matching
+Spellcasters-no-cover.md: Foreword-Spellcasters.md $(CASTERS)
+	cat $^ > $@
 
-Cover-epub.jpg: Spellcasters.pdf
+# convert the first page of the PDF to a file
+Cover-%.jpg: %.pdf
 	convert -density 150 "$<[0]" -gravity center -crop 90%x+0+0 $@
 
-Spellcasters.epub: Spellcasters-no-cover.html Cover-epub.jpg
+timestamp: $(CASTERS)
+	date '+<p class="timestamp">%B %d, %Y</p>' > $@
+
+# --- EPUB ---
+
+Spellcasters.epub: Spellcasters-no-cover.html Cover-Spellcasters.jpg
 	ebook-convert $< $@ --embed-all-fonts --authors "Alex Schroeder" \
 		--title "Halberds & Helmets Spellcasters" \
 		--chapter "//h:h2" \
-		--preserve-cover-aspect-ratio --cover Cover-epub.jpg
+		--preserve-cover-aspect-ratio --cover Cover-Spellcasters.jpg
 
-upload: $(ALL) Spellcasters.pdf Spellcasters.epub
-	rsync --rsh="ssh -p 882" \
-		$^ alexschroeder.ch:alexschroeder.ch/pdfs/spellcasters/
+Spells.epub: Spells-no-cover.html Cover-Spells.jpg
+	ebook-convert $< $@ --embed-all-fonts --authors "Alex Schroeder" \
+		--title "Halberds & Helmets Spells" \
+		--chapter "//h:h2" \
+		--preserve-cover-aspect-ratio --cover Cover-Spells.jpg
+
+Spells.md: Cover-Spells.md timestamp Foreword-Spells.md $(CASTERS)
+	cat Cover-Spells.md timestamp Foreword-Spells.md > $@
+	perl spells.pl --assemble $^ >> $@
+
+Spells-no-cover.md: Foreword-Spells.md $(CASTERS)
+	cat Foreword-Spells.md > $@
+	perl spells.pl --assemble $^ >> $@
+
+# --- Wiki ---
 
 wiki: $(CASTERS)
-	perl spells.pl $^
-
-test:
-	prove t
+	perl spells.pl --upload $^

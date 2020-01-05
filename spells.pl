@@ -19,8 +19,19 @@ use LWP::UserAgent ();
 
 my %spells;
 my %source;
+my ($action) = grep /^--/, @ARGV;
 
-for my $file (@ARGV) {
+if (not $action or $action eq "--help") {
+  print <<EOT;
+Usage: spells.pl [ACTION] [FILES...]
+Action can be one of:
+--help     show this message
+--assemble assembles the spells into one document
+--upload   upload assembled spells to the wiki page
+EOT
+}
+
+for my $file (grep !/^--/, @ARGV) {
   my $text = read_file($file); # octets!
   while ($text =~ /^(\*\*([^*]+)\*\* .*?)(\n\n|\n?\z)/gms) {
     my $name = $2;
@@ -42,19 +53,24 @@ for my $name (sort keys %spells) {
   $spells .= "$spells{$name}\n\n";
 }
 
-my $url = 'https://campaignwiki.org/wiki/Spellcasters';
-my %form = (
-  frodo => 1,
-  username => 'Alex',
-  title => 'Spells',
-  summary => 'Update',
-  text => $spells );
+if ($action eq "--upload") {
+  my $url = 'https://campaignwiki.org/wiki/Spellcasters';
+  my %form = (
+    frodo => 1,
+    username => 'Alex',
+    title => 'Spells',
+    summary => 'Update',
+    text => $spells );
 
-my $ua = LWP::UserAgent->new;
-my $response = $ua->post( $url, \%form );
+  my $ua = LWP::UserAgent->new;
+  my $response = $ua->post( $url, \%form );
 
-if ($response->code == 302) {
-  say "Posted";
-} else {
-  die $response->status_line;
+  if ($response->code == 302) {
+    say "Posted";
+  } else {
+    die $response->status_line;
+  }
+} elsif ($action eq "--assemble") {
+  $spells =~ s/^\[:.*\]\n//mg;
+  print $spells;
 }
