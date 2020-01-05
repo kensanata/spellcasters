@@ -13,9 +13,16 @@ If you're interested in the toolchain I'm using: I use Python's
 Markdown into HTML and I turn the HTML into PDF using
 [WeasyPrint](https://pypi.org/project/WeasyPrint/).
 
-The font I've used is fbb from Debian package `texlive-fonts-extra`.
-The problem is that these fonts are not immediately available to
-`pango`, which means that `fc-list` needs to find. The easiest
-solution was to symlink the files from
-`/usr/share/texlive/texmf-dist/fonts/opentype/public/fbb/` to
-`~/.local/share/fonts/`.
+## Fonts
+
+The CSS specifies "fbb", "Palatino" for the text body. The font I've
+used is fbb from Debian package `texlive-fonts-extra`. The problem is
+that these fonts are not immediately available to `pango`, which means
+that `fc-list` needs to find. The easiest solution was to symlink the
+files from `/usr/share/texlive/texmf-dist/fonts/opentype/public/fbb/`
+to `~/.local/share/fonts/`.
+
+The CSS for the title page specifies "Gill Sans", "Gillus ADF",
+"Helvetica". Somehow the actual font that gets picked is TeX Gyre
+Heros (a replacement for Helvetica; it is based URW Nimbus Mono L).
+You can get this font from Debian packages `fonts-texgyre`.
