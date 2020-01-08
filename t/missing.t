@@ -1,5 +1,5 @@
 #!/usr/bin/env perl
-# Copyright (C) 2001-2019  Alex Schroeder <alex@gnu.org>
+# Copyright (C) 2001-2020  Alex Schroeder <alex@gnu.org>
 #
 # This program is free software: you can redistribute it and/or modify it under
 # the terms of the GNU General Public License as published by the Free Software
@@ -21,7 +21,10 @@ use Test::More;
 
 my $verbose = grep { $_ eq '-v' } @ARGV;
 
-my @others = qw(README.md Foreword.md Spellcasters.md);
+my $makefile = read_file('Makefile');
+$makefile =~ s/\\\n/ /g; # undo continuation lines
+my ($nocasters) = $makefile =~ /^NO_CASTERS=(.*)/m;
+my @others = split ' ', $nocasters; # whitespace split
 my @files = grep {
   my $file = $_;
   none { $_ eq $file } @others;

@@ -1,5 +1,5 @@
 #!/usr/bin/env perl
-# Copyright (C) 2019  Alex Schroeder <alex@gnu.org>
+# Copyright (C) 2019–2020  Alex Schroeder <alex@gnu.org>
 #
 # This program is free software: you can redistribute it and/or modify it under
 # the terms of the GNU General Public License as published by the Free Software
@@ -19,35 +19,39 @@ use List::Util qw(none);
 use Encode qw(decode);
 use Test::More;
 
-my @others = qw(README.md Foreword.md Spellcasters.md);
+my $makefile = read_file('Makefile');
+$makefile =~ s/\\\n/ /g; # undo continuation lines
+my ($nocasters) = $makefile =~ /^NO_CASTERS=(.*)/m;
+my @others = split ' ', $nocasters; # whitespace split
 my @files = grep {
   my $file = $_;
   none { $_ eq $file } @others;
 } <"*.md">;
 
-my %spells;
+my %description;
 my %source;
 
 for my $file (@files) {
+  my $mu = substr $file, 0, -3;
   my $octets = read_file($file);
   my $string = decode("UTF-8", $octets);
   while ($string =~ /^\*\*([^*]+)\*\*( .*?)\n\n/gms) {
     my $name = $1;
     next if $name eq '...';
     my $description = $2;
-    ok(not(exists $source{$name}), "$name is a new spell");
-    if (exists $source{$name}) {
-      if ($description ne $spells{$name}) {
-	diag "Duplicate $name for $file, first seen in $source{$name} (but with different description)\n";
-	diag "→ $description\n";
-	diag "→ $spells{$name}\n";
-      } else {
-	diag "Duplicate $name for $file, first seen in $source{$name}\n";
-      }
-      next;
-    }
-    $spells{$name} = $description;
-    $source{$name} = $file;
+    $description{$name}->{$description} = 1;
+    push(@{$source{$name}}, $mu);
+  }
+}
+
+for my $name (sort keys %source) {
+  ok @{$source{$name}} == 1, "$name is a unique spell";
+  if (@{$source{$name}} > 1) {
+    diag "Multiple sources for $name exist: @{$source{$name}}";
+  }
+  if (keys %{$description{$name}} > 1) {
+    diag "Multiple descriptions for $name exist:\n"
+	. join("\n", keys %{$description{$name}}, "");
   }
 }
 
