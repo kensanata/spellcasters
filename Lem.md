@@ -12,11 +12,11 @@ shall carry you into the deepness where he resides.
 
 The library of Lem contains many works on the squid people, the space
 between the realms, the nature of time and space as well as the hidden
-symmetries of our reality. At the centre of this retreat is the
-*golden pool*, a pool of pure Earth Blood, tamed and clean, safe for
-the wary. The life-giving fragrance fills the many rooms down here.
-Everybody is quite aware of its mutagenic effect and avoids touching it
-at all cost.
+symmetries of our reality. At the centre of this retreat is the Golden
+Pool, a pool of pure Earth Blood, tamed and clean, safe for the wary.
+The life-giving fragrance fills the many rooms down here. Everybody is
+quite aware of its mutagenic effect and avoids touching it at all
+cost.
 
 **Boneless** (1) allows you to bend your body into impossible shapes
 for 20min. You can move as if you didn't have any solid bones in your
