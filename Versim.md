@@ -53,6 +53,20 @@ and any other such structures are shattered.
 
 **...** (4)
 
-**...** (5)
+**Breath of life** (5) grants new, intelligent life to dead matter.
+You can grant new life to trees, rocks, corpses, statues, flames,
+anything you want. Their life is bound to the body you granted them
+but their soul is eternal, just like yours.
 
-**...** (5)
+**Vacuum** (5) is the spell to end all life. Cast it, and a black
+sphere of utter cold spreads around you, growing at 30ft/rd up to
+300ft. Inside this sphere, the cold is so absolute the air itself
+freezes and falls like snow. This is the cold vacuum of outer space.
+Any living thing except for you must save vs. death every single round
+or die. You can see up to 10ft inside the sphere. You may move up to
+30ft/round and uphold the sphere although it won't grow while you
+move, thus the edge never travels faster than 30ft/round. The spell
+ends when you decide to no longer uphold it or when you are in danger:
+if you take damage or when you roll a saving throw. When the spell
+ends, the sphere starts shrinking at 30ft/round until it disappears.
+You may cast no other spell while upholding the spell.
