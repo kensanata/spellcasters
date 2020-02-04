@@ -40,7 +40,7 @@ Creatures with more than four hit dice are immune.
 Usually, this means water, but it might also be lava or quicksand.
 This spell does not protect against the heat or noxious fumes.
 
-**Far Seeing** (2) creates a floating eye in your palm which you can
+**Far seeing** (2) creates a floating eye in your palm which you can
 send anywhere you like. Anything it sees, you see. It travels 60ft per
 round and lasts for 10min. It can see in the dark if you can see in
 the dark.

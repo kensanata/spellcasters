@@ -19,13 +19,13 @@ time.
 
 ### The Book of the Mountain Witch
 
-**Bird Friendship** (1) allows you to talk with all birds for a day.
+**Bird friendship** (1) allows you to talk with all birds for a day.
 
-**Eagle Eyes** (1) allows you to see through the eyes of any bird you
+**Eagle eyes** (1) allows you to see through the eyes of any bird you
 can see, for 20min. Simply look up at the sky, focus onto a bird and
 see what it sees.
 
-**Feather Fall** (1) allows you to fall any distance without taking
+**Feather fall** (1) allows you to fall any distance without taking
 any falling damage. This spell can be cast at any time, so as long as
 you are conscious, not gagged, and have at least one free hand
 available, you can cast it before hitting the ground.
@@ -63,12 +63,12 @@ lying on the ground. Anything within two feet of the bolt is affected
 and takes 1d6 damage per caster level (5d6 minimum), save vs. spells
 for half damage.
 
-**Like Grass** (4) allows you to ignore all bludgeoning damage and
+**Like grass** (4) allows you to ignore all bludgeoning damage and
 falling damage. If you're hit by clubs, hammers, maces, wrecking
 balls, rocks, or whatever else, you are simply flung aside and tumble
 and roll like a superhero, undamaged.
 
-**Slipstream Travel** (4) turns you and anybody else within 10ft into
+**Slipstream travel** (4) turns you and anybody else within 10ft into
 a magical dust that can follow any living thing as it moves through
 air or water for as long as you want. Usually, this is used to
 transport a group of people using birds.

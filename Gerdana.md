@@ -43,7 +43,7 @@ free, they remember everything they did and if they did anything they
 would not have ordinarily done, they react with shame and anger.
 Charms usually cause severe emotional distress!
 
-**Lunar Runes** (1) allows you to read and write the ancient elven
+**Lunar runes** (1) allows you to read and write the ancient elven
 runes powered by lunar magic for 20min. These runes are usually
 invisible or hidden within ornaments and other writing. This spell
 makes the lunar runes glow in a pale light, visible to all.
@@ -53,14 +53,14 @@ and foe alike, so it cannot safely be used against foes in melee.
 Lower hit dice and lower hit points are affected first. No save.
 Creatures with more than four hit dice are immune.
 
-**True Words** (2) allows you to look into the eyes of people and read
+**True words** (2) allows you to look into the eyes of people and read
 their feelings, see their imaginations, and hear their thoughts unless
 they save vs. spells. These secrets are revealed to you across all
 language barriers. In order to learn something specific, the target
 must also think about it. How you make them do it is up to you. The
 target will know that you are there inside their head.
 
-**Eternal Starlight** (2) can be cast on anything within 60ft; if you
+**Eternal starlight** (2) can be cast on anything within 60ft; if you
 target anything with eyes, it must save vs. spells or be blinded (-4
 to hit, no targeting of spells).
 
@@ -108,7 +108,7 @@ to the stats of a blue dragon: AC 0 1d8/1d8/3d10 MV 24 (flying). You
 keep your hit points and to-hit scores since your class doesn't
 change. You return to your natural shape when you loose consciousness.
 
-**Lunar Sailing** (5) summons a moon caravel. It appears within 10min
+**Lunar sailing** (5) summons a moon caravel. It appears within 10min
 and carries up to 20 people. The moon caravel can sail through shallow
 waters and on moonlit nights, it can fly up into the air and cross
 over into any of the other realms the navigator knows how to find
@@ -117,7 +117,7 @@ leads to. These star charts are therefore quite valuable. Sadly,
 mastery of this spell does not automatically grant you access to any
 star charts.
 
-**Summon Living Storm** (5) conjures an elemental: HD 16 AC -2 3d8 F16
+**Summon living storm** (5) conjures an elemental: HD 16 AC -2 3d8 F16
 MV 36; plus 1d8 vs. flying creatures; requires a save vs. death to
 approach; immune to non-magical weapons; attacks summoner and remains
 on this plane if the conjurer's concentration fails. This happens

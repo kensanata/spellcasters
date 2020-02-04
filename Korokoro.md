@@ -45,7 +45,7 @@ fruit for somebody else to eat. You can command things to grow for ten
 minutes and once grown, these things stay until you cut them off
 manually. It takes two weeks for last traces to disappear.
 
-**Plague Touch** (2) turns you into a rotting half-corpse for an hour.
+**Plague touch** (2) turns you into a rotting half-corpse for an hour.
 Your skin starts peeling off, there's pus and other fluids, the smell
 is dreadful, and worst of all: it's contagious. Anybody you touch must
 save vs. poison or contract the same rotting disease. You loose half
@@ -54,7 +54,7 @@ victims you infect loose all their hit points but one within ten
 minutes and don't recover unless they undergo a week-long purification
 ritual involving a lot of bathing, fuming and changing of bandages.
 
-**Animate Rock** (3) animates a large boulders up to the size of an
+**Animate rock** (3) animates a large boulders up to the size of an
 elephant (HD 9 AC 4 3d6 F9 MV 12). The rocks are pulled from their
 slow time into the present and it confuses them. They can be
 controlled for 1h if control slips, they are free to do what they
@@ -70,12 +70,12 @@ with your two new extra crab pincers. You could grow an extra head like
 an ettin and have it control the extra limbs. But then you'll need to
 make sure it stays loyal.
 
-**Warp Mind** (3) tears at the barriers between the realms and these
+**Warp mind** (3) tears at the barriers between the realms and these
 vibrations and the glimpses of the void are so terrible that they
 shatter the minds of many: anybody within 60ft must save vs. death or
 go stark raving mad for half an hour. Victims attack random targets!
 
-**Open Mind** (4) opens your mind to the warp and the howling voices
+**Open mind** (4) opens your mind to the warp and the howling voices
 of demons from that void between the realms. They speak of terrible
 secrets that will drive any mortal mad. You have but a few moments to
 search for answers: ask a question and save vs. spells. If you fail,
@@ -91,7 +91,7 @@ for a day: to hear what all the plants can hear, to see what all the
 animals can see. Intelligent beings in the area must save vs. spells
 or share just like everybody else.
 
-**Warp Flesh** (4) slashes at the barriers of the realms and allows
+**Warp flesh** (4) slashes at the barriers of the realms and allows
 these vortexes of madness and mutation into the world, transforming
 flesh and bone: Anybody within 60ft must save vs. death or undergo
 terrible mutations: roll a d12 and replace arms with tentacles (1) or
@@ -118,7 +118,7 @@ Should you die or will yourself to rebirth, your clone awakens and you
 die. There can be only one! Any extra clones remain in stasis. Your
 later memories only transfer very vaguely to the clone.
 
-**Warp Gate** (5) opens a gate into the space between the realms and
+**Warp gate** (5) opens a gate into the space between the realms and
 the madness of the void coagulates into demons of the most terrible
 kind (HD 8+1 AC 5 1d4/1d4/1d6/1d6/1d8 F16 MV 18 ML 11; flying; only
 harmed by magic or magic weapons). You can keep the gate open for as

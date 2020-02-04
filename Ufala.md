@@ -69,7 +69,7 @@ You can still act normally in addition to using your laser eyes.
 1d6 per caster level, save vs. spells for half. It also extinguishes
 all fires and freezes all water surfaces.
 
-**Javelins of Lightning** (3) turns ten javelins into *javelins of
+**Javelins of lightning** (3) turns ten javelins into *javelins of
 lightning*. When thrown, these javelins are enveloped in chains of
 lightning and when they hit their target, they deal an additional 3d6
 of damage, discharging the lightning. When left unused, the energy
@@ -79,14 +79,14 @@ dissipates after 20min.
 to join a fight: HD 6 AC 5 1d6/1d6/2d6 MV 9; an extra 2d8 if both
 claws hit.
 
-**Spell Warp** (4) disrupts magic around you. For up to 10min and as
+**Spell warp** (4) disrupts magic around you. For up to 10min and as
 far as 60ft, reality is visibly changed: spiders crawl from their
 hiding places, mushrooms grow, snakes hiss, roots writhe, leaves curl,
 buildings groan, flowers bloom and die, spells cast fails
 spectacularly, magic effects are diminished, magic items screech and
 howl, all benefits are lost for the duration of the warp.
 
-**Shadow Passage** (4) lets you travel through the shadow lands and
+**Shadow passage** (4) lets you travel through the shadow lands and
 take ten companions with you. You can safely travel this way up to one
 hundred miles during the night or while you are underground. For every
 extra hundred miles everybody on this trip must save vs. death or be
@@ -96,7 +96,7 @@ lost in the shadow lands.
 flying bears: HD 8 AC 6 1d6/1d6/2d6 MV 12 fly; an extra 2d8 if both
 claws hit.
 
-**Ice Gate** (5) weakens the veil between your location and Jotunheim,
+**Ice gate** (5) weakens the veil between your location and Jotunheim,
 allowing you to shape a permanent passage. You can expand the dark
 space between the two realms, create a maze of black ice or a palace
 of glass, whatever you want, just as long as it remains connected at

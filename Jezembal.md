@@ -24,7 +24,7 @@ turn each one of them into an icicle. Next round, you can shoot them
 at designated target within 60ft dealing 1d6 damage each, save
 vs. spells for half.
 
-**Ice Wall** (1) pulls water up and freezes it into a thick ice
+**Ice wall** (1) pulls water up and freezes it into a thick ice
 barrier as big as a castle gate. This barrier has 2d6 hit points per
 level and AC 9.
 

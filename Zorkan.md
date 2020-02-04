@@ -98,7 +98,7 @@ reversed spell without a specific target in mind, in which case a
 random victim of the past millennias is freed: a powerful and thankful
 non-player character of level 6+1d4 with all their equipment on them.
 
-**Earth Blood mastery** (5) enables you to find one of those rare
+**Earth blood mastery** (5) enables you to find one of those rare
 spots where the Veins of the Earth meet and master their energy. From
 this spot, you can control the powers of creation. Within 120ft from
 this spot, you can create or destroy inanimate matter as you wish.

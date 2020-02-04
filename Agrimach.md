@@ -34,7 +34,7 @@ vs. spells or flee for as many rounds as you have levels.
 attributes of the corpse or even looking for a certain individual if
 you are in possession of a personal item or a part of their body.
 
-**Read Magic** (1) allows you to read and use scrolls.
+**Read magic** (1) allows you to read and use scrolls.
 
 **Paralysis** (2) affects one person within 30ft; they must save
 vs. spells or be unable to move for 1h as they experience death,
@@ -56,7 +56,7 @@ dead and talk to them for half an hour if you are in possession of
 their skull. The more years have passed since their passing, the
 harder it is to understand them.
 
-**Limited Shape Shift** (3) changes you into the animal you feel most
+**Limited shape shift** (3) changes you into the animal you feel most
 connected to (and no other). The effect ends when you will it to end
 or when you die. Agrimach likes to move around as a wolf.
 
