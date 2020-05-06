@@ -115,7 +115,7 @@ where your remaining bones are.
 
 **Imprisonment** (5) allows you to put a dent in reality and seal of a
 pocket of time and space, imprisoning a target unless they save
-vs. spells. For the imprisoned, time passes by their body requires
+vs. spells. For the imprisoned, time passes but their body requires
 neither food nor drink, nor does it age. Thus, they cannot be
 resurrected, nor can they be recalled from an afterlife. The prison
 weakens within a day unless you spend 10min fortifying it for a year
