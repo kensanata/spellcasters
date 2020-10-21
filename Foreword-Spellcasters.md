@@ -2,9 +2,9 @@
 
 In [Halberds &
 Helmets](https://alexschroeder.ch/wiki/Halberds_and_Helmets), magic
-users and elves need to learn new spells from other spellcasters. This
-book lists a few of them to act as quest givers and teachers for
-player characters.
+users and elves need to learn new spells from teachers, i.e. other
+spellcasters. This book lists a few spellcasters and their spells to
+act as quest givers and teachers for player characters.
 
 All the magic users and elves in this booklet are level ten. This
 means that the repertoire of these spellcasters is always the same:
@@ -18,13 +18,13 @@ when outside their homes (AC 2).
 As for the spells themselves, it is unavoidable that some classic
 spells are repeated. I hope you don't mind. If you have better ideas,
 submit them! My email address:
-[kensanata@gmail.com](mailto:kensanata@gmail.com).
+[alex@alexschroeder.ch](mailto:alex@alexschroeder.ch).
 
 If there are similar spells, then it is up to the players to decide
 which variants their characters consider worth learning and which
 magic users or elves to befriend.
 
-As for the general classification, this is my rule of thumb:
+As for the general classification, there are my guidelines:
 
 * if a spell has a quantifiable effect in the 1d6 range, it's a spell
   of the first circle
