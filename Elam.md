@@ -116,8 +116,7 @@ again, you can reshape your realm at your will with godlike powers or
 change the door that leads to it. You cannot have more than one such
 realm and one such door leading to it.
 
-<hr>
-
+<span class="footnotes">
 ¹ *Notes on doors*: A door is a wooden panel with hinges in a frame or
 wall which can be opened or closed. Thus, trap doors qualify but gates
 or a portcullis do not.
@@ -129,3 +128,4 @@ either direction and it can be entered on either side. If both doors
 connect to a room, the basic use remains: entering a room through a
 portal enters the other room, leaving a room through a portal leaves
 the other room.
+</span>

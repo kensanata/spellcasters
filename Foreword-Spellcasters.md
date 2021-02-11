@@ -8,21 +8,18 @@ act as quest givers and teachers for player characters.
 
 All the magic users and elves in this booklet are level ten. This
 means that the repertoire of these spellcasters is always the same:
-two spells of the fifth circle and three spells of every other circle
-that.
+two spells of the fifth circle and three spells of every other circle.
 
 The magic users have 10d4 hit points and wear no armour (AC 9), elves
 have 10d6 hit points and wear fancy elven plate armour and a shield
 when outside their homes (AC 2).
 
 As for the spells themselves, it is unavoidable that some classic
-spells are repeated. I hope you don't mind. If you have better ideas,
-submit them! My email address:
+spells are repeated. If there are similar spells, then it is up to the
+players to decide which variants their characters consider worth
+learning and which magic users or elves to befriend. I hope you don't
+mind. If you have better ideas, submit them! My email address:
 [alex@alexschroeder.ch](mailto:alex@alexschroeder.ch).
-
-If there are similar spells, then it is up to the players to decide
-which variants their characters consider worth learning and which
-magic users or elves to befriend.
 
 As for the general classification, there are my guidelines:
 
