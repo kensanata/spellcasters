@@ -14,8 +14,8 @@ all: Spellcasters.pdf Spellcasters.epub Spells.pdf Spells.epub
 individuals: $(ALL)
 
 upload: Spellcasters.pdf Spellcasters.epub Spells.pdf Spells.epub $(ALL)
-	rsync --rsh="ssh -p 882" \
-		$^ alexschroeder.ch:alexschroeder.ch/pdfs/spellcasters/
+	rsync --itemize-changes --archive --compress \
+		$^ sibirocobombus:alexschroeder.ch/pdfs/spellcasters/
 
 clean:
 	rm -f *.pdf *.epub *.html *.html.tmp Spells.md Spellcasters.md
