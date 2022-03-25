@@ -13,7 +13,7 @@
 # this program. If not, see <http://www.gnu.org/licenses/>.
 
 use Modern::Perl '2018';
-use File::Slurp qw(read_file);
+use File::Slurper qw(read_binary);
 use List::Util qw(none);
 use LWP::UserAgent ();
 
@@ -28,11 +28,12 @@ Action can be one of:
 --help     show this message
 --assemble assembles the spells into one document
 --upload   upload assembled spells to the wiki page
+--tables   turn into Hex Describe tables
 EOT
 }
 
 for my $file (grep !/^--/, @ARGV) {
-  my $text = read_file($file); # octets!
+  my $text = read_binary($file); # octets!
   while ($text =~ /^(\*\*([^*]+)\*\* .*?)(\n\n|\n?\z)/gms) {
     my $name = $2;
     next if $name eq '...';
@@ -72,5 +73,9 @@ if ($action eq "--upload") {
   }
 } elsif ($action eq "--assemble") {
   $spells =~ s/^\[:.*\]\n//mg;
+  print $spells;
+} elsif ($action eq "--tables") {
+  $spells =~ s/\n+\[:(.*)\]\n/<p id="$1">/g;
+  $spells =~ s/\n\s*/ /g;
   print $spells;
 }

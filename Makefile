@@ -77,3 +77,9 @@ Spells-no-cover.md: Foreword-Spells.md $(CASTERS)
 
 wiki: $(CASTERS)
 	perl spells.pl --upload $^
+
+# --- Tables for Hex Describe ---
+
+hex-describe: $(CASTERS)
+	perl spells.pl --tables $^ > hex-describe.txt
+
