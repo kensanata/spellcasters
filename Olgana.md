@@ -1,8 +1,8 @@
 ## Olgana
 
 ![Olgana](Olgana.png)
-Olgana belongs to the Order of Light, an organisation of fighters and
-magic users dedicated to fighting evil.
+Lady Olgana belongs to the Order of Light, an organisation of fighters
+and magic users dedicated to fighting evil.
 
 She lives in a castle up in the mountains, by a beautiful cold lake.
 There is a wall that closes off the entire valley, and watch towers
@@ -11,9 +11,10 @@ range of 3–7, with their squires and other servants, and about a dozen
 acolytes and their servants, about two hundred people in total. This
 only works because many of these knights own land elsewhere and it is
 the money of those peasants that supports this castle close to the sky
-and the gods.
+and the gods. They ride regular patrols down towards the plains,
+protecting the carts and mules making their way up to the castle.
 
-The spells are based on light can be cancelled by magical darkness.
+The spells based on light can be cancelled by magical darkness.
 
 ### The Book of Light
 
