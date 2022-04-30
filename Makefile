@@ -1,3 +1,4 @@
+SHELL=/bin/bash
 CSS=spellcasters.css
 
 # Create a PDF for every Markdown file
@@ -24,6 +25,15 @@ test:
 	prove t
 
 # --- PDF ---
+
+watch:
+	@echo Regenerating PDFs whenever the .md files get saved...
+	@inotifywait -q -e close_write -m . | \
+	while read -r d e f; do \
+	  if [[ "$${f,,}" == *\.md ]]; then \
+	    make Spellcasters.pdf; \
+	  fi; \
+        done
 
 %.pdf: %.html spellcasters.css
 	weasyprint $< $@
