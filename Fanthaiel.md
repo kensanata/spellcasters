@@ -27,7 +27,7 @@ and refuses attunement to anything else.
 ### The Book of Dragons
 
 **Light foot** (1) allows you to walk for 4h without leaving any
-tracks. You do not sink into snow nor disturb any leaves. The gras
+tracks. You do not sink into snow nor disturb any leaves. The grass
 does not feel your touch and the branches do not snap. You can
 surprise your opponents on 1–3 in 6.
 
