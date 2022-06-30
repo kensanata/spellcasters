@@ -21,6 +21,11 @@ my $doc = XML::LibXML->load_html(string => <STDIN>);
 
 # avoid bronze golem!
 my @nodes = $doc->findnodes('/html/body/p/*[position()=1][name()="strong"]');
+if (@nodes < 40) {
+  print $doc;
+  exit;
+}
+
 my $id = 'spell001';
 my %spells;
 for my $node (@nodes) {
