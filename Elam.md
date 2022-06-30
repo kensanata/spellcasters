@@ -120,7 +120,9 @@ realm and one such door leading to it.
 ¹ *Notes on doors*: A door is a wooden panel with hinges in a frame or
 wall which can be opened or closed. Thus, trap doors qualify but gates
 or a portcullis do not.
+</span>
 
+<span class="footnotes">
 ² *Notes on portals*: Portals are active when the door is opened in a
 regular fashion. Destroying a part of the door or its frame destroys
 the portal. A portal is bidirectional and bilateral: it can be used in
