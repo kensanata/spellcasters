@@ -91,3 +91,25 @@ p .footnotes { display: block; margin-top: 1em }
 h1, h3 { bookmark-level: none }
 /* page breaks */
 h2 { break-before : always }
+/* index */
+#index {
+    columns: 3;
+    column-gap: 2ex;
+    font-size: 11pt;
+    line-height: 13pt;
+}
+#index h2 {
+    column-span: all;
+}
+#index p {
+    margin: 0;
+    padding-left: 1em;
+    text-indent: -1em;
+}
+#index a {
+    color: inherit;
+    text-decoration: none;
+}
+#index a::after {
+    content: ' ' target-counter(attr(href), page);
+}

@@ -39,7 +39,7 @@ watch:
 	weasyprint $< $@
 
 %.html: %.html.tmp spellcasters-prefix spellcasters-suffix
-	cat spellcasters-prefix $< spellcasters-suffix > $@
+	cat spellcasters-prefix $< spellcasters-suffix | perl append-index.pl > $@
 
 %.html.tmp: %.md
 	python3 -m markdown \
