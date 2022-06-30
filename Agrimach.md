@@ -102,7 +102,7 @@ dragging the kicking and screaming soul back into the living world.
 **Cloudkill** (5) calls forth a deathly cloud of yellow-green gas that
 spreads slowly for 1h with 20ft/rd, creeping along the ground, seeping
 into openings, killing any creature with less than 4 HD; creatures
-with more HD must make a save vs. poison or die. Even if they make the
+with more HD must save vs. poison or die. Even if they make the
 save, they take 1 damage/rd. Thus, remaining inside the cloud kills
 almost anybody. As it spreads for over a mile in all directions, it
 creates a true dead zone. Creatures immune to poison are not affected.

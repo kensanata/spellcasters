@@ -20,7 +20,7 @@ The spells based on light can be cancelled by magical darkness.
 
 **The Psalm of the Loyal Soul** (1) turns a humanoid into a standfast
 friend of yours for a day (no giants, no undead, no plantlings and the
-like) unless they make a save vs. spells. If you also treat them as
+like) unless they save vs. spells. If you also treat them as
 your best friend for a day, then the friendship continues as if it had
 always been thus. If you are separate, the spell wears off after half
 the time: if you have been best friends for a week, the target remains
@@ -85,7 +85,7 @@ said that none of those trying to reach the celestial bodies have ever
 returned, but who knows.
 
 **Psalm of the Beast** (4) tames dangerous beast and befriends
-monsters unless they make a save vs. spells. You can tame as many hit
+monsters unless they save vs. spells. You can tame as many hit
 dice as you have levels (at least 7). If you mistreat the victims,
 they may retry to save immediately. Otherwise, if treated with
 benevolence, they may retry their save after a week. Those who make
