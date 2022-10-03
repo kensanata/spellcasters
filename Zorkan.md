@@ -75,9 +75,9 @@ luck with that.
 **Earth ship** (4) summons forth ship of stone that can glide through
 the earth while the sun is up. Only you can make it move. Without you,
 or without sunlight, it stops, resulting in a strange stone building.
-Similarly, all the trail of destruction it leaves as it plows through
-the land are permanent: buildings are destroyed, trees are smashed,
-canals are dug.
+Similarly, the trail of destruction it leaves behind as it plows
+through the land is permanent: buildings are destroyed, trees are
+smashed, canals are dug.
 
 **Split the ground** (4) allows you to smash your fist into the ground
 and split the earth. A fissure opens within seconds, and it keeps

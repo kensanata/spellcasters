@@ -26,10 +26,10 @@ thin air. At night, it allows you to catch moonlight and weave the
 finest silk from it. A square up to 50×50ft of cloth can be created:
 nets, sails, curtains, you name it.
 
-**Spider climb** (1) allows anybody you touch into a half spider
-centaur for 10min. With your legs, you can climb along any solid
-surface or rope. With your spider silk gland, you can secure yourself
-against falls when jumping.
+**Spider climb** (1) turns yourself or somebody you touch into a half
+spider centaur for 10min. With your spider legs, you can climb along
+any solid surface or rope. With your spider silk gland, you can secure
+yourself against falls when jumping.
 
 **Glamour** (2) is an illusion improving your looks in all respects,
 for a day: you look young and beautiful, your scars are gone, you
