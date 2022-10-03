@@ -68,9 +68,9 @@ for 20min like giants do: roll to-hit as you would, deal 3d6 on a hit,
 no save.
 
 **Stone skin** (3) turns your body to some sort of weird stone
-material: impervious to cold, fire, poison, and your AC goes down to.
-Also, you can no longer swim and you still need to breathe, so good
-luck with that.
+material: impervious to cold, fire, poison, and your AC goes down
+to 0. Also, you can no longer swim and you still need to breathe, so
+good luck with that.
 
 **Earth ship** (4) summons forth ship of stone that can glide through
 the earth while the sun is up. Only you can make it move. Without you,
