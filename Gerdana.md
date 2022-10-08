@@ -16,10 +16,10 @@ scars hidden by a powerful *glamour*.
 The powerful elves hardly ever speak to visitors. Contact with the
 outside world is maintained by Ariana (level 5) who has mastered
 *charm person*, *lunar runes*, *glamour*, *true words* and *lightning
-bolt*. All other elves in the region has mastered *charm person* or
+bolt*. All other elves in the region have mastered *charm person* or
 *sleep*. This includes the two dozen sea elves serving the circle of
-true-friends are spellcasters in the palace as well as the sea elves
-living in the small town around the harbour below the palace.
+true-friends as well as the sea elves living in the small town around
+the harbour below the palace.
 
 The palace itself is illuminated day and night by fantastic glowing
 crystals and glass sculptures. It is a shining beacon in itself and
