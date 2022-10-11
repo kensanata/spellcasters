@@ -22,7 +22,7 @@ none may follow.
 ### The Book of Ursomancy
 
 **Bear strength** (1) grants a target strength 13 (+1) for 1h. At 5th
-level, this increases to strength 16 (+3). At 9th level, this
+level, this increases to strength 16 (+2). At 9th level, this
 increases to 18 (+3). If the target is already that strong, nothing is
 gained.
 
