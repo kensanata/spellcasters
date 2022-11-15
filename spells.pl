@@ -39,6 +39,7 @@ for my $file (grep !/^--/, @ARGV) {
     next if $name eq '...';
     next if exists $source{$name};
     my $spell = $1;
+    $spell =~ s/\n/ /g;
     $spells{$name} = $spell;
     $source{$name} = $file;
   }
