@@ -43,7 +43,7 @@ taking 1d6 damage and granting anybody else still standing a +4 to
 their attack. Wooden doors, shuttered windows, glass, porcelain, clay
 and any other such structures are shattered.
 
-**...** (3) 
+**...** (3)
 
 **...** (3)
 
@@ -51,7 +51,13 @@ and any other such structures are shattered.
 
 **...** (4)
 
-**...** (4)
+**Mind domination** (4) blows away all integrity, all honour, all
+resolution, it softens the will and empties the mind. A single target
+within 60ft must save vs. spells or be utterly dominated by your mere
+thoughts for 10min. The victim can receive telepathic commands as long
+as it stays within range and will continue executing any commands
+given even if outside that range. No common language is necessary.
+Mindless creatures such as most undead are immune against this spell.
 
 **Breath of life** (5) grants new, intelligent life to dead matter.
 You can grant new life to trees, rocks, corpses, statues, flames,
