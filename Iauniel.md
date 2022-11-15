@@ -56,7 +56,7 @@ disappear back into their surrounding flesh after half an hour.
 doing, no matter where they are, if and only if you can eat a little
 bit of their hair. The target must save vs. spell in order to notice
 the strange presence in their mind. If they do, they may defend
-themselves with mind-affecting spells such as *charms*, *mind blast*,
+themselves with mind-affecting spells such as *charm person*, *mind blast*,
 *mind reading*, *mind rot*, or *warp mind*.
 
 **Phase walk** (3) allows you to see the maze of crisscrossing lines
