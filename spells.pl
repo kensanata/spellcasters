@@ -44,6 +44,21 @@ for my $file (grep !/^--/, @ARGV) {
   }
 }
 
+# Add internal links
+for my $nm (sort keys %spells) {
+  my $spell = $spells{$nm};
+  my $changed = 0;
+  for my $name (sort keys %spells) {
+    $name = lc($name);
+    my $id = $name;
+    $id =~ s/ /-/g;
+    if ($spell =~ s/\*$name\*(?!\*)/[$name](#$id)/i) {
+      $changed++;
+    }
+  }
+  $spells{$nm} = $spell if $changed;
+}
+
 my $spells = "Each paragraph begins with the **spell name** "
     . "followed by the spell circle in parenthesis (1–5), "
     . "also known as the *spell level*.\n\n";
@@ -76,6 +91,7 @@ if ($action eq "--upload") {
   print $spells;
 } elsif ($action eq "--tables") {
   $spells =~ s/\n+\[:(.*)\]\n/<p id="$1">/g;
+  $spells =~ s/\[(.*?)\]\((#.*?)\)/<a class="spell" href="$2">$1<\/a>/g;
   $spells =~ s/\n\s*/ /g;
   print $spells;
 }

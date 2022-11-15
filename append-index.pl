@@ -26,14 +26,16 @@ if (@nodes < 40) {
   exit;
 }
 
-my $id = 'spell001';
 my %spells;
 for my $node (@nodes) {
   my $content = $node->textContent;
   next unless length($content) > 1;
-  die "$content\n" if $content =~ /^bron/;
+  next if $content eq "spell name"; # intro
+  die "$content\n" if $content =~ /^bron/; # a test
+  my $id = lc($content);
+  $id =~ s/ /-/g;
   $spells{$content} = $id;
-  $node->setAttribute('id', $id++);
+  $node->setAttribute('id', $id);
   $node->setAttribute('class', 'indexed');
 }
 my @body = $doc->findnodes('//body');
