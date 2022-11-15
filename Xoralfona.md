@@ -101,6 +101,6 @@ in a river but no longer under attack.
 **Unbound** (5) frees you from the world's shackles. No barrier can
 hold you, nothing can touch you; you can move through your current
 realm by a thought alone. This means that you still need to know the
-way in order to get to your destination, but if you don't are about
+way in order to get to your destination, but if you don't care about
 the destination, you are truly free. Not even gravity can touch you.
 Sadly, the passage of time remains unaffected.
