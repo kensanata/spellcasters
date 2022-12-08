@@ -27,6 +27,7 @@ if (@nodes < 40) {
 }
 
 my %spells;
+my %n;
 for my $node (@nodes) {
   my $content = $node->textContent;
   next unless length($content) > 1;
@@ -34,7 +35,13 @@ for my $node (@nodes) {
   die "$content\n" if $content =~ /^bron/; # a test
   my $id = lc($content);
   $id =~ s/ /-/g;
-  $spells{$content} = $id;
+  if (exists $n{$id}) {
+    $n{$id}++;
+    $id .= $n{$id};
+  } else {
+    $n{$id} = 0;
+    $spells{$content} = $id;
+  }
   $node->setAttribute('id', $id);
   $node->setAttribute('class', 'indexed');
 }
@@ -55,6 +62,13 @@ for my $spell (sort keys %spells) {
   $an->appendTextNode($spell);
   $an->setAttribute('href', '#' . $spells{$spell});
   $p->appendChild($an);
+  # add more links for extra page numbers via CSS!
+  for my $i (1 .. $n{$spells{$spell}}) {
+    my $am = XML::LibXML::Element->new('a');
+    $am->appendTextNode("​"); # zero-width space to prevent minimizing
+    $am->setAttribute('href', '#' . $spells{$spell} . $i);
+    $p->appendChild($am);
+  }
   $p->appendTextNode("\n");
 }
 

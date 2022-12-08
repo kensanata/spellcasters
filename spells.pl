@@ -50,10 +50,13 @@ for my $nm (sort keys %spells) {
   my $spell = $spells{$nm};
   my $changed = 0;
   for my $name (sort keys %spells) {
-    $name = lc($name);
+    # do not lowercase if there is a second upper case character
+    $name = lc($name) unless $name =~ /.[[:upper:]]/;
     my $id = $name;
-    $id =~ s/ /-/g;
-    if ($spell =~ s/\*$name\*(?!\*)/[$name](#$id)/i) {
+    $id =~ s/ /-/g; $id = lc($id);
+    my $re = $name;
+    $re =~ s/ /\\s+/g;
+    if ($spell =~ s/\*$re\*(?!\*)/[$name](#$id)/ig) {
       $changed++;
     }
   }
