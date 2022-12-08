@@ -102,7 +102,7 @@ doesn’t do is revive the dead.
 
 **Prayer for Help** (5) summons an archon, a warrior angel (HD 6 AC 1
 1W8 MV 15; immune to non-magical weapons; can see in the dark; can
-shape change into a dog at will; can sing the Song of Truth at will,
-can recite the Mantra of True Intent at will, and can use the Light
-Beam at will). This angel supports you for a particular task as long
-as your intent is sincere and serves the law.
+shape change into a dog at will; can sing the *Song of Truth* at will,
+can recite the *The Mantra of True Intent* at will, and can use the
+*Light Beam* at will). This angel supports you for a particular task
+as long as your intent is sincere and serves the law.

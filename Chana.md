@@ -30,7 +30,7 @@ free, they remember everything they did and if they did anything they
 would not have ordinarily done, they react with shame and anger.
 Charms usually cause severe emotional distress!
 
-**Song of the water dragons** (1). Every river has a water dragon
+**Song of the Water Dragons** (1). Every river has a water dragon
 protecting it. Singing this song summons the dragon: HD 9 AC 0
 1d8/1d8/3d10 F9 ML 9 MV 24 XP 3100; lightning bolts for 9d6, save for
 half. The dragon speaks the language of the locals but is not

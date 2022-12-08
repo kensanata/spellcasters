@@ -61,7 +61,7 @@ don't attack. If you are note brazen about it, you may pass amidst the
 victims without alerting them to your presence. Your allies had better
 cover their ears as you start whispering these words of despair.
 
-**Song of speed** (3) enables a target to move twice as far, attack
+**Song of Speed** (3) enables a target to move twice as far, attack
 twice as often, cast twice as many spells per round, for 10min, as
 long as you keep singing softly to yourself. When singing, you can't
 cast any other spells yourself.
