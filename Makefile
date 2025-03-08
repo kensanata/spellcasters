@@ -1,6 +1,8 @@
 SHELL=/bin/bash
 CSS=spellcasters.css
 
+CONVERT_CMD != type -p magick || type -p convert
+
 # Create a PDF for every Markdown file
 NO_CASTERS=README.md \
 	Cover-Spellcasters.md Cover-Spells.md \
@@ -56,7 +58,7 @@ Spellcasters-no-cover.md: Foreword-Spellcasters.md $(CASTERS)
 
 # convert the first page of the PDF to a file
 Cover-%.jpg: %.pdf
-	magick -density 150 "$<[0]" -gravity center -crop 90%x+0+0 $@
+	$(CONVERT_CMD) -density 150 "$<[0]" -gravity center -crop 90%x+0+0 $@
 
 timestamp: $(CASTERS)
 	date '+<p class="timestamp">%B %d, %Y</p>' > $@
