@@ -83,6 +83,25 @@ Spells-no-cover.md: Foreword-Spells.md $(CASTERS)
 	cat Foreword-Spells.md > $@
 	perl spells.pl --assemble $^ >> $@
 
+# --- Dict ---
+
+install: Spells.dict.dz Spells.index
+	@test -d /usr/share/dictd || echo "The directory /usr/share/dictd does not exist, where should the files go?" && exit
+	sudo mv $^ /usr/share/dictd/
+	sudo dictdconfig --write
+	sudo systemctl restart dictd
+
+%.dict.dz: %.dict
+	dictzip $<
+
+%.dict: %.jargon
+	dictfmt --utf8 --allchars -p $(basename $< .dic) \
+	-s "Spells from the Halberds & Helmets Spellcasters Project" \
+	< $<
+
+%.jargon: $(CASTERS)
+	perl spells.pl --dict $^ > $@
+
 # --- Wiki ---
 
 wiki: $(CASTERS)

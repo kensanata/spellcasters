@@ -29,6 +29,7 @@ Action can be one of:
 --assemble assembles the spells into one document
 --upload   upload assembled spells to the wiki page
 --tables   turn into Hex Describe tables
+--dict     turn into Jargon format dictionary
 EOT
 }
 
@@ -92,6 +93,10 @@ if ($action eq "--upload") {
   }
 } elsif ($action eq "--assemble") {
   $spells =~ s/^\[:.*\]\n//mg;
+  print $spells;
+} elsif ($action eq "--dict") {
+  say "\%h Spells from the Halberds & Helmets Spellcasters Project";
+  $spells =~ s/^\[:.*\]\n\*\*(.+?)\*\*/%h $1\n*$1*/mg;
   print $spells;
 } elsif ($action eq "--tables") {
   $spells =~ s/\n+\[:(.*)\]\n/<p id="$1">/g;
