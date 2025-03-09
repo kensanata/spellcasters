@@ -97,6 +97,7 @@ h2 { break-before : always }
     column-gap: 2ex;
     font-size: 11pt;
     line-height: 13pt;
+    text-align: left;
 }
 #index h2 {
     column-span: all;
@@ -109,7 +110,4 @@ h2 { break-before : always }
 #index a {
     color: inherit;
     text-decoration: none;
-}
-#index a::after {
-    content: ' ' target-counter(attr(href), page);
 }
