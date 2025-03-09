@@ -48,11 +48,11 @@ now counts as a magical +0 weapon. The spells lasts for 20min.
 **Eyes of the overlord** (2) allows you to see anything invisible
 within 60ft. The spell lasts for 20min.
 
-**Ligning bolt** (3) is a javelin of lightning dealing 1d6 per caster
-level (minimum 5d6) to a target within 180ft and anybody standing
-between you and the target. Targets may save vs. spells for half.
-Wooden structures like shields, doors or siege engines hit are
-destroyed.
+**Lightning bolt** (3) strikes any visible foe within 200ft and
+everybody standing between you and them, unless they're very small or
+lying on the ground. Anything within two feet of the bolt is affected
+and takes 1d6 damage per caster level (5d6 minimum), save vs. spells
+for half damage.
 
 **Wings of god** (3) allows a target to fly for 2h. Their movement
 rate is half that of a person running (MV 6).
